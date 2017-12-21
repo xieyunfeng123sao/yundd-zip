@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color" >
+
+    <RelativeLayout
+        android:id="@+id/top_picview"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_50dp"
+        android:background="@color/top_app_color"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/picview_go_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:paddingLeft="@dimen/layout_20dp"
+            android:scaleType="center"
+            android:src="@drawable/registernaritem" />
+
+        <TextView
+            android:id="@+id/picview_top_name"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:textColor="@color/top_text_color"
+            android:textSize="@dimen/textSize_18sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/picview_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/top_picview"
+        android:layout_margin="@dimen/layout_20dp"
+        android:text="@string/app_name"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/textSize_13sp" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/picview_img"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_300dp"
+        android:layout_centerInParent="true"
+        android:scaleType="fitXY" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/layout_10dp"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+              android:id="@+id/share_pic"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/layout_40dp"
+            android:layout_marginLeft="@dimen/layout_10dp"
+            android:layout_weight="1"
+            android:background="@drawable/linearlayout_bg" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="@dimen/layout_20dp"
+                    android:layout_height="@dimen/layout_20dp"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/spotsupervision_picmanag" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="@dimen/layout_3dp"
+                    android:text="@string/share_img"
+                    android:textColor="@color/actionsheet_gray"
+                    android:textSize="@dimen/textSize_13sp" />
+            </LinearLayout>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="@dimen/layout_40dp"
+            android:layout_marginLeft="@dimen/layout_10dp"
+            android:layout_weight="1"
+            android:background="@drawable/linearlayout_bg"
+            android:visibility="gone" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="@dimen/layout_20dp"
+                    android:layout_height="@dimen/layout_20dp"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/picturecenter_download" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="@dimen/layout_3dp"
+                    android:text="@string/download"
+                    android:textColor="@color/actionsheet_gray"
+                    android:textSize="@dimen/textSize_13sp" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+                 android:id="@+id/problem_send"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/layout_40dp"
+            android:layout_marginLeft="@dimen/layout_10dp"
+            android:layout_marginRight="@dimen/layout_10dp"
+            android:layout_weight="1"
+            android:background="@drawable/linearlayout_bg" >
+
+            <LinearLayout
+           
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="@dimen/layout_20dp"
+                    android:layout_height="@dimen/layout_20dp"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/picturecenter_send" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="@dimen/layout_3dp"
+                    android:text="@string/problem_send"
+                    android:textColor="@color/actionsheet_gray"
+                    android:textSize="@dimen/textSize_13sp" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

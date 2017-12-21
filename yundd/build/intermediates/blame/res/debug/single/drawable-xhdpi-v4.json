@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkswitch_btn_pressed.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-xhdpi\\checkswitch_btn_pressed.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\pullrefresh\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\pullrefresh\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkswitch_mask.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-xhdpi\\checkswitch_mask.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkswitch_bottom.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-xhdpi\\checkswitch_bottom.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkswitch_btn_unpressed.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-xhdpi\\checkswitch_btn_unpressed.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\pullrefresh\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkswitch_frame.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-xhdpi\\checkswitch_frame.png"
+    }
+]

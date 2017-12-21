@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/back_color"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/problem_img"
+                android:layout_width="@dimen/layout_60dp"
+                android:layout_height="@dimen/layout_60dp"
+                android:layout_marginBottom="@dimen/layout_15dp"
+                android:layout_marginLeft="@dimen/layout_10dp"
+                android:layout_marginTop="@dimen/layout_15dp"
+                android:src="@drawable/qcenter_factorypic" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="@dimen/layout_15dp"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/problem_factory"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/textSize_14sp" />
+
+                <TextView
+                    android:id="@+id/problem_tag"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/layout_2dp"
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/textSize_10sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="@dimen/layout_2dp"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/problem_name"
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:singleLine="true"
+                        android:text="督导01"
+                        android:textColor="@color/main_color"
+                        android:textSize="@dimen/textSize_10sp" />
+
+                    <TextView
+                        android:id="@+id/problem_other"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="@dimen/layout_15dp"
+                        android:text="手动创建"
+                        android:textColor="@color/text_color"
+                        android:textSize="@dimen/textSize_10sp" />
+
+                    <TextView
+                        android:id="@+id/problem_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="@dimen/layout_15dp"
+                        android:textColor="@color/text_color"
+                        android:textSize="@dimen/textSize_10sp" />
+
+                    <TextView
+                        android:id="@+id/problem_state"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginRight="@dimen/layout_20dp"
+                        android:layout_weight="1"
+                        android:gravity="right"
+                        android:textColor="@color/zhenggai"
+                        android:textSize="@dimen/textSize_10sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_0.5dp"
+            android:background="@color/alertdialog_line" >
+        </View>
+    </LinearLayout>
+
+</LinearLayout>

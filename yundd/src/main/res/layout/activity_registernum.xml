@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    android:orientation="vertical" >
+
+    <include layout="@layout/top_layout" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_45dp"
+        android:layout_marginLeft="@dimen/layout_20dp"
+        android:layout_marginRight="@dimen/layout_20dp"
+        android:layout_marginTop="@dimen/layout_20dp"
+        android:background="@drawable/linearlayout_bg"
+        android:padding="@dimen/layout_5dp" >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/layout_5dp"
+            android:text="@string/country"
+            android:textColor="@color/top_text_color"
+            android:textSize="@dimen/textSize_16sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/num"
+                android:textColor="@color/top_text_color"
+                android:textSize="@dimen/textSize_16sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/layout_5dp"
+                android:gravity="center"
+                android:text="@string/w_country"
+                android:textColor="@color/top_text_color"
+                android:textSize="@dimen/textSize_16sp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/layout_5dp"
+                android:src="@drawable/phonenum_select" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_45dp"
+        android:layout_marginLeft="@dimen/layout_20dp"
+        android:layout_marginRight="@dimen/layout_20dp"
+        android:layout_marginTop="@dimen/layout_10dp"
+        android:background="@drawable/linearlayout_bg"
+        android:padding="@dimen/layout_5dp" >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/layout_5dp"
+            android:text="@string/phone_num"
+            android:textColor="@color/top_text_color"
+            android:textSize="@dimen/textSize_16sp" />
+
+        <EditText
+            android:textColorHint="@color/top_text_color"
+            android:id="@+id/login_code_num"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@null"
+            android:gravity="center_vertical"
+            android:hint="@string/input_num"
+            android:inputType="number"
+            android:maxLength="11"
+            android:singleLine="true" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/num_next"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_45dp"
+        android:layout_marginLeft="@dimen/layout_20dp"
+        android:layout_marginRight="@dimen/layout_20dp"
+        android:layout_marginTop="@dimen/layout_40dp"
+        android:background="@drawable/text_register_pressed"
+        android:enabled="false"
+        android:gravity="center"
+        android:text="@string/next"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/textSize_16sp" />
+
+</LinearLayout>

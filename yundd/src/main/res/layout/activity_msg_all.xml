@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    android:orientation="vertical" >
+
+    <include layout="@layout/top_layout" />
+
+    <TextView
+        android:id="@+id/msg_all_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/layout_20dp"
+        android:text="我了个去啊啊"
+        android:textColor="@color/black"
+        android:textSize="@dimen/textSize_18sp" />
+
+    <TextView
+        android:id="@+id/msg_all_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/layout_20dp"
+        android:text="2016-5-8"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/textSize_13sp" />
+
+    <TextView
+        android:id="@+id/msg_all_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/layout_20dp"
+        android:layout_marginRight="@dimen/layout_20dp"
+        android:layout_marginTop="@dimen/layout_10dp"
+        android:text="大神；来得快扫频代考的跑酷案例；看案例；的看；路撒打开按时；领导马上，。才这么看了；阿世盗名我脾气额苦了；拉莫斯走咯陪我去看；了没带伞，。 马上到破婆婆"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/textSize_13sp" />
+
+</LinearLayout>

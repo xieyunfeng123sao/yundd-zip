@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/detal_catalog"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/list_top"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/layout_5dp"
+        android:paddingTop="@dimen/layout_3dp"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/textSize_13sp" />
+
+    <LinearLayout
+        android:id="@+id/item_sure_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <CheckBox
+            android:id="@+id/detal_check"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/layout_20dp"
+            android:button="@drawable/detal_chexbox" />
+
+        <TextView
+            android:id="@+id/detal_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/layout_10dp"
+            android:layout_marginLeft="@dimen/layout_15dp"
+            android:layout_marginTop="@dimen/layout_10dp"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/textSize_15sp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_0.5dp"
+        android:background="@color/alertdialog_line" />
+
+</LinearLayout>

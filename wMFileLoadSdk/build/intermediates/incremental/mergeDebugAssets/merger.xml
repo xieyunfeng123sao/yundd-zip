@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\ASyundd\AndroidClient-yundd\wMFileLoadSdk\src\main\assets"/><source path="E:\ASyundd\AndroidClient-yundd\wMFileLoadSdk\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\ASyundd\AndroidClient-yundd\wMFileLoadSdk\src\debug\assets"/></dataSet></merger>

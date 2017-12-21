@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    android:orientation="vertical" >
+
+    <include layout="@layout/top_layout" />
+
+    <RelativeLayout
+        android:id="@+id/select_factoty"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_40dp"
+        android:background="@color/white" >
+
+        <TextView
+            android:id="@+id/factory_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="全部"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/textSize_15sp" />
+
+        <ImageView
+            android:id="@+id/show_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/layout_5dp"
+            android:src="@drawable/phonenum_select" />
+    </RelativeLayout>
+
+    <!--
+         <Button
+        android:id="@+id/select_factoty"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_40dp"
+        android:background="@android:color/white"
+        android:drawableRight="@drawable/phonenum_select"
+        android:text="全部"
+        android:textColor="@color/main_color" />
+    -->
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_0.5dp"
+        android:background="@color/alertdialog_line" />
+
+    <ExpandableListView
+        android:id="@+id/patrol_select_subfatory"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null" >
+    </ExpandableListView>
+
+</LinearLayout>

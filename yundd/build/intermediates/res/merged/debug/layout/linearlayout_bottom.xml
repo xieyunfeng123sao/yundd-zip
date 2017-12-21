@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:baselineAligned="false"
+    android:orientation="horizontal" >
+
+    <ListView
+        android:id="@+id/one_list"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:divider="@null"
+        android:listSelector="@android:color/white" >
+    </ListView>
+
+    <View
+        android:layout_width="@dimen/layout_0.5dp"
+        android:layout_height="match_parent"
+        android:background="@color/alertdialog_line" />
+
+    <ListView
+        android:id="@+id/two_list"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:divider="@null"
+        android:listSelector="@null"
+        android:visibility="gone" >
+    </ListView>
+
+    <View
+        android:layout_width="@dimen/layout_0.5dp"
+        android:layout_height="match_parent"
+        android:background="@color/alertdialog_line" />
+
+    <ListView
+        android:id="@+id/three_list"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:divider="@null"
+        android:listSelector="@null"
+        android:visibility="gone" >
+    </ListView>
+
+</LinearLayout>

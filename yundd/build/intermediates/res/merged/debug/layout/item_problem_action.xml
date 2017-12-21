@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_marginBottom="@dimen/layout_5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/layout_10dp"
+        android:layout_marginRight="@dimen/layout_20dp"
+        android:background="@color/speak_bg"
+        android:orientation="horizontal"
+        android:paddingBottom="@dimen/layout_10dp"
+        android:paddingTop="@dimen/layout_10dp" >
+
+        <TextView
+            android:id="@+id/problem_action_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/layout_5dp"
+            android:textColor="@color/black"
+            android:textSize="@dimen/textSize_11sp" />
+
+        <TextView
+            android:id="@+id/problem_action"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/layout_3dp"
+            android:textColor="@color/actionsheet_red"
+            android:textSize="@dimen/textSize_11sp" />
+
+        <TextView
+            android:id="@+id/problemcomment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/layout_3dp"
+            android:text="@string/speak"
+            android:textColor="@color/black"
+            android:textSize="@dimen/textSize_11sp" />
+
+        <TextView
+            android:textColor="@color/black"
+            android:id="@+id/problem_action_sprak"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/layout_3dp"
+            android:layout_weight="1"
+            android:textSize="@dimen/textSize_11sp" />
+
+        <TextView
+            android:id="@+id/problem_action_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/layout_3dp"
+            android:layout_marginRight="@dimen/layout_5dp"
+            android:textColor="@color/black"
+            android:textSize="@dimen/textSize_11sp" />
+    </LinearLayout>
+
+</LinearLayout>

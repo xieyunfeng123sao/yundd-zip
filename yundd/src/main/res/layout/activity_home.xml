@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <FrameLayout
+        android:id="@+id/activity_home_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/home_end"
+        android:background="@color/back_color" />
+
+    <LinearLayout
+        android:id="@+id/home_end"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_55dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/top_app_color" >
+
+        <RadioGroup
+            android:id="@+id/activity_home_radiogroup"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/layout_1dp"
+            android:background="@android:color/white"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/radio_msg"
+                style="@style/style_home_radio"
+                android:checked="true"
+                android:drawableTop="@drawable/radio_home"
+                android:text="@string/radio_msg" />
+
+            <RadioButton
+                android:id="@+id/radio_factory"
+                style="@style/style_home_radio"
+                android:drawableTop="@drawable/radio_factory"
+                android:text="@string/radio_factory" />
+
+            <RadioButton
+                android:id="@+id/radio_manager"
+                style="@style/style_home_radio"
+                android:drawableTop="@drawable/radio_manager"
+                android:text="@string/radio_manager" />
+
+            <RadioButton
+                android:id="@+id/radio_me"
+                style="@style/style_home_radio"
+                android:drawableTop="@drawable/radio_me"
+                android:text="@string/radio_me" />
+        </RadioGroup>
+    </LinearLayout>
+
+</RelativeLayout>

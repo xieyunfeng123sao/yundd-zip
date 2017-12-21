@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_50dp"
+        android:background="@color/top_app_color" >
+
+        <ImageView
+            android:id="@+id/patrol_sub_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:paddingLeft="@dimen/layout_20dp"
+            android:scaleType="center"
+            android:src="@drawable/registernaritem" />
+
+        <TextView
+            android:id="@+id/top_name"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="选择巡视点"
+            android:textColor="@color/top_text_color"
+            android:textSize="@dimen/textSize_18sp" />
+
+        <TextView
+            android:id="@+id/jump"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:paddingLeft="@dimen/layout_10dp"
+            android:paddingRight="@dimen/layout_10dp"
+            android:text="完成"
+            android:textColor="@color/main_color"
+            android:textSize="@dimen/textSize_16sp"
+             />
+    </RelativeLayout>
+
+    <ExpandableListView
+        android:id="@+id/select_device"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null" >
+    </ExpandableListView>
+
+</LinearLayout>

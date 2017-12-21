@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_color">#16A0E8</color>
+    <color name="main_color_dark">#16AFFF</color>
+    <color name="top_color">#F2F2F2</color>
+    <color name="top_app_color">#F3F3F3</color>
+    <color name="top_text_color">#8C8C8C</color>
+    <color name="back_color">#F8F8F8</color>
+    <color name="error_color">#FF8000</color>
+    <color name="text_color">#9C9C9C</color>
+    <color name="trans">#90000000</color>
+    <color name="trans_biantai">#c0000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="alertdialog_line">#EAEAEA</color>
+        <color name="alertdialog_line1">#CACACA</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <color name="actionsheet_gray_ligth">#9f9f9f</color>
+    <color name="blue">#bbdc80</color>
+    <color name="list_top">#C3E6F9</color>
+    <color name="speak_bg">#DEEBF3</color>
+    <color name="fucha">#EE7558</color>
+    <color name="zhenggai">#EFC66A</color>
+    <color name="pinglun">#36D489</color>
+    <color name="media_bg">#508F8F8F</color>
+    <color name="media_bg_top">#D0000000</color>
+    <color name="media_bg_buttom">#89000000</color>
+    <color name="patrol_bg">#59000000</color>
+    <color name="biantai_gray">#606060</color>
+    <color name="trans_biantai_gray">#50606060</color>
+    <color name="gray_qian">#f2f2f2</color>
+    <color name="gray_shen">#aaaaaa</color>
+ <color name="panel_black">#25272A</color>
+    <color name="text_blue1">#1173CB</color>
+</resources>

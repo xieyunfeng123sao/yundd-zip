@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top_can_look"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_50dp"
+        android:background="@color/top_app_color"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/look_people_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:paddingLeft="@dimen/layout_20dp"
+            android:scaleType="center"
+            android:src="@drawable/registernaritem" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="查看人员"
+            android:textColor="@color/top_text_color"
+            android:textSize="@dimen/textSize_18sp" />
+
+        <TextView
+            android:id="@+id/look_people_sure"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/layout_10dp"
+            android:gravity="center"
+            android:text="@string/sure"
+            android:textColor="@color/main_color"
+            android:textSize="@dimen/textSize_16sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="@dimen/layout_5dp"
+        android:paddingLeft="@dimen/layout_10dp"
+        android:paddingTop="@dimen/layout_5dp" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="所有人可见"
+                android:textColor="@color/black"
+                android:textSize="@dimen/textSize_15sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="本企业所有成员可见"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/textSize_10sp" />
+        </LinearLayout>
+
+        <CheckBox
+            android:id="@+id/all_people_canlook"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/layout_10dp"
+            android:button="@drawable/check_canlook" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_0.5dp"
+        android:background="@color/alertdialog_line" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="@dimen/layout_5dp"
+        android:paddingLeft="@dimen/layout_10dp"
+        android:paddingTop="@dimen/layout_5dp" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="指定人员可见"
+                android:textColor="@color/black"
+                android:textSize="@dimen/textSize_15sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="选中的成员可见"
+                android:textColor="@color/text_color"
+                android:textSize="@dimen/textSize_10sp" />
+        </LinearLayout>
+
+        <CheckBox
+            android:id="@+id/same_people_canlook"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/layout_10dp"
+            android:button="@drawable/check_canlook" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_0.5dp"
+        android:background="@color/alertdialog_line" />
+
+    <ListView
+        android:id="@+id/list_can_look"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@null" >
+    </ListView>
+
+</LinearLayout>

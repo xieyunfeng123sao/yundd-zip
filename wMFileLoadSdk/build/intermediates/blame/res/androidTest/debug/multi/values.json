@@ -1,0 +1,87 @@
+[
+    {
+        "outputFile": "E:\\ASyundd\\AndroidClient-yundd\\wMFileLoadSdk\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "E:\\ASyundd\\AndroidClient-yundd\\wMFileLoadSdk\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 52,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "E:\\ASyundd\\AndroidClient-yundd\\wMFileLoadSdk\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "E:\\ASyundd\\AndroidClient-yundd\\wMFileLoadSdk\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "E:\\ASyundd\\AndroidClient-yundd\\wMFileLoadSdk\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 450,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 605
+                    }
+                }
+            }
+        ]
+    }
+]

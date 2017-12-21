@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    android:orientation="vertical" >
+
+    <include layout="@layout/top_layout" />
+
+    <LinearLayout
+        android:id="@+id/new_msg_action"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/layout_10dp"
+        android:background="@drawable/linearlaytou_click"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/layout_5dp"
+            android:layout_marginLeft="@dimen/layout_20dp"
+            android:layout_marginTop="@dimen/layout_5dp"
+            android:src="@drawable/personal_newmessage" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/layout_10dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="@string/setting_message_new"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/textSize_15sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/layout_5dp"
+            android:layout_marginRight="@dimen/layout_20dp"
+            android:layout_marginTop="@dimen/layout_5dp"
+            android:src="@drawable/securitycode_tabletag" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/setting_crash"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/layout_10dp"
+        android:background="@drawable/linearlaytou_click"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/layout_15dp"
+            android:layout_marginLeft="@dimen/layout_20dp"
+            android:layout_marginTop="@dimen/layout_15dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="@string/setting_cash"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/textSize_15sp" />
+
+        <TextView
+            android:id="@+id/crash_size"
+            android:textSize="@dimen/textSize_12sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/layout_15dp"
+            android:layout_marginRight="@dimen/layout_20dp"
+            android:layout_marginTop="@dimen/layout_15dp"
+            android:gravity="center"
+            android:text="0.00M" />
+    </LinearLayout>
+
+</LinearLayout>

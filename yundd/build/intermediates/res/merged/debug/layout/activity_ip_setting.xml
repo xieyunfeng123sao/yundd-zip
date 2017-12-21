@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top_load"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_50dp"
+        android:background="@color/top_app_color"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/ip_go_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:paddingLeft="@dimen/layout_20dp"
+            android:scaleType="center"
+            android:src="@drawable/registernaritem" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="设置登录IP"
+            android:textColor="@color/top_text_color"
+            android:textSize="@dimen/textSize_18sp" />
+
+        <TextView
+            android:id="@+id/ip_sure"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:paddingLeft="@dimen/layout_10dp"
+            android:paddingRight="@dimen/layout_10dp"
+            android:text="确定"
+            android:textColor="@color/main_color"
+            android:textSize="@dimen/textSize_16sp" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/back_color"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/alertdialog_line"
+                android:padding="@dimen/layout_10dp"
+                android:text="当前IP地址"
+                android:textColor="@color/biantai_gray"
+                android:textSize="@dimen/textSize_18sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/back_color"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/input_ip"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/layout_50dp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:hint="请输入IP地址:端口号"
+                    android:digits="0123456789.:"
+                    android:paddingLeft="@dimen/layout_20dp"
+                    android:singleLine="true"
+                    android:textColor="@color/biantai_gray"
+                    android:textColorHint="@color/top_text_color"
+                    android:textSize="@dimen/textSize_16sp" />
+
+                <ImageView
+                    android:id="@+id/clear_ip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="@dimen/layout_20dp"
+                    android:src="@drawable/login_iplist_close" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/alertdialog_line"
+                android:padding="@dimen/layout_10dp"
+                android:text="历史IP地址"
+                android:textColor="@color/main_color"
+                android:textSize="@dimen/textSize_18sp" />
+
+            <ListView
+                android:id="@+id/history_ip"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:divider="@null"
+                android:listSelector="#00000000" >
+            </ListView>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

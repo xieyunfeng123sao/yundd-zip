@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_50dp"
+        android:background="@color/top_app_color"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/video_faceimg_goback"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:paddingLeft="@dimen/layout_20dp"
+            android:scaleType="center"
+            android:src="@drawable/registernaritem" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="选择封面"
+            android:textColor="@color/top_text_color"
+            android:textSize="@dimen/textSize_18sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/re_video_edit"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_200dp"
+        android:background="@color/black" >
+
+        <VideoView
+            android:id="@+id/videoView_faceimg"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+
+    <TextView
+        android:text="总时长:"
+        android:layout_marginBottom="@dimen/layout_15dp"
+        android:layout_marginTop="@dimen/layout_15dp"
+        android:id="@+id/video_face_length"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/textSize_16sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/layout_5dp" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_70dp"
+            android:layout_centerInParent="true" >
+
+            <LinearLayout
+                android:id="@+id/edit_faceimg_video"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/actionsheet_gray"
+                android:orientation="horizontal" >
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/select_faceimg"
+                android:layout_width="@dimen/layout_50dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/video_img_face"
+                android:orientation="vertical" >
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <Button
+            android:id="@+id/video_faceimg_next"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_45dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/main_color"
+            android:text="完成"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textSize_16sp" />
+    </RelativeLayout>
+
+</LinearLayout>

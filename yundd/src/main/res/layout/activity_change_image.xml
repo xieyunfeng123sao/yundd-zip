@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_50dp" >
+
+        <ImageView
+            android:id="@+id/changeimg_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:paddingLeft="@dimen/layout_20dp"
+            android:scaleType="center"
+            android:src="@drawable/qcenter_drawpic_cancle" />
+
+        <TextView
+            android:id="@+id/changeimg_name"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="用户注册"
+            android:textColor="@color/top_text_color"
+            android:textSize="@dimen/textSize_18sp" />
+
+        <ImageView
+            android:id="@+id/changeimg_sure"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/layout_20dp"
+            android:scaleType="center"
+            android:src="@drawable/qcenter_drawpic_confirm" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageView
+                android:id="@+id/problem_change_img"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY"
+                android:src="@drawable/qcenter_factorypic" />
+
+            <com.vomont.yundudao.ui.createproblem.view.CavansView
+                android:id="@+id/change_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </RelativeLayout>
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginBottom="@dimen/layout_20dp"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/changeimg_paint"
+                android:layout_width="@dimen/layout_50dp"
+                android:layout_height="@dimen/layout_50dp"
+                android:background="@drawable/radio_changeimag_paint"
+                android:button="@null"
+                android:checked="true" />
+
+            <RadioButton
+                android:id="@+id/changeimg_circle"
+                android:layout_width="@dimen/layout_50dp"
+                android:layout_height="@dimen/layout_50dp"
+                android:layout_marginLeft="@dimen/layout_15dp"
+                android:background="@drawable/radio_changeimag_circle"
+                android:button="@null" />
+
+            <RadioButton
+                android:id="@+id/changeimg_backoff"
+                android:layout_width="@dimen/layout_50dp"
+                android:layout_height="@dimen/layout_50dp"
+                android:layout_marginLeft="@dimen/layout_15dp"
+                android:background="@drawable/radio_changeimag_backoff"
+                android:button="@null" />
+
+            <RadioButton
+                android:id="@+id/changeimg_goahead"
+                android:layout_width="@dimen/layout_50dp"
+                android:layout_height="@dimen/layout_50dp"
+                android:layout_marginLeft="@dimen/layout_15dp"
+                android:background="@drawable/radio_changeimag_gohead"
+                android:button="@null" />
+        </RadioGroup>
+    </FrameLayout>
+
+</LinearLayout>

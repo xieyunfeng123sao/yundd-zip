@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    android:orientation="vertical" >
+
+    <include layout="@layout/top_layout" />
+
+    <ScrollView
+        android:id="@+id/scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/layout_10dp" >
+
+                <TextView
+                    android:id="@+id/week_data"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/textview_suface"
+                    android:gravity="center"
+                    android:paddingBottom="@dimen/layout_5dp"
+                    android:paddingLeft="@dimen/layout_25dp"
+                    android:paddingRight="@dimen/layout_25dp"
+                    android:paddingTop="@dimen/layout_5dp"
+                    android:text="本周"
+                    android:textColor="@color/main_color"
+                    android:textSize="@dimen/textSize_15sp" />
+
+                <TextView
+                    android:id="@+id/mouth_data"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/week_data"
+                    android:gravity="center"
+                    android:paddingBottom="@dimen/layout_5dp"
+                    android:paddingLeft="@dimen/layout_25dp"
+                    android:paddingRight="@dimen/layout_25dp"
+                    android:paddingTop="@dimen/layout_5dp"
+                    android:text="本月"
+                    android:textColor="@color/biantai_gray"
+                    android:textSize="@dimen/textSize_15sp" />
+
+                <TextView
+                    android:id="@+id/more_data"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:gravity="center"
+                    android:paddingBottom="@dimen/layout_5dp"
+                    android:paddingLeft="@dimen/layout_15dp"
+                    android:paddingTop="@dimen/layout_5dp"
+                    android:text="更多"
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/textSize_15sp" />
+
+                <View
+                    android:layout_width="@dimen/layout_1dp"
+                    android:layout_height="20dp"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@+id/more_data"
+                    android:background="@color/alertdialog_line" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_1dp"
+                android:background="@color/alertdialog_line" />
+
+            <LinearLayout
+                android:id="@+id/reportform_data_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <com.vomont.yundudao.view.pieChart.PieView
+                    android:id="@+id/piechartview"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_margin="@dimen/layout_10dp" >
+                </com.vomont.yundudao.view.pieChart.PieView>
+
+                <LinearLayout
+                    android:id="@+id/most_layout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/layout_10dp"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:layout_width="15dp"
+                        android:layout_height="15dp"
+                        android:src="@drawable/reportform_wen" />
+
+                    <TextView
+                        android:layout_gravity="center_vertical"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/layout_10dp"
+                        android:text="出现次数最多:"
+                        android:textColor="@color/actionsheet_gray"
+                        android:textSize="@dimen/textSize_11sp" />
+
+                    <TextView
+                        android:layout_gravity="center_vertical"
+                        android:id="@+id/most_type_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="工作区域环境"
+                        android:textColor="@color/text_color"
+                        android:textSize="@dimen/textSize_11sp" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layout_1dp"
+                    android:background="@color/alertdialog_line" />
+
+                <ListView
+                    android:id="@+id/list_data"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:divider="@null"
+                    android:listSelector="@color/white" >
+                </ListView>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/no_data_reportform"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="100dp"
+                android:gravity="center"
+                android:text="暂无数据"
+                android:textColor="@color/biantai_gray"
+                android:textSize="13sp"
+                android:visibility="gone" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

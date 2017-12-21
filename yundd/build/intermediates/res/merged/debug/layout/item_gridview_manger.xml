@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E5E5E5"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/layout_0.5dp"
+        android:layout_marginRight="@dimen/layout_0.5dp"
+        android:background="@android:color/white" >
+
+        <ImageView
+            android:id="@+id/no_kaifa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/no_kaifa" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/manger_img"
+                android:layout_width="@dimen/layout_35dp"
+                android:layout_height="@dimen/layout_35dp"
+                android:layout_gravity="center"
+               />
+
+            <TextView
+                android:id="@+id/manger_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/layout_5dp"
+                android:gravity="center"
+                android:textColor="@color/biantai_gray"
+                android:textSize="@dimen/textSize_12sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

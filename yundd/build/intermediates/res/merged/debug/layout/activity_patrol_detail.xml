@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <SurfaceView
+        android:layout_width="0dp"
+        android:layout_height="0dp" />
+
+    <RelativeLayout
+        android:id="@+id/top_relat"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_50dp"
+        android:background="@color/top_app_color"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/patrol_detail_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:paddingLeft="@dimen/layout_20dp"
+            android:scaleType="center"
+            android:src="@drawable/registernaritem" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="视频播放"
+            android:textColor="@color/top_text_color"
+            android:textSize="@dimen/textSize_18sp" />
+
+        <TextView
+            android:id="@+id/jump"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:paddingLeft="@dimen/layout_10dp"
+            android:paddingRight="@dimen/layout_10dp"
+            android:text="@string/jump"
+            android:textColor="@color/main_color"
+            android:textSize="@dimen/textSize_16sp"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/patrol_re_video"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_200dp"
+                android:background="@color/black" >
+
+                <com.vomont.yundudao.view.video.CommonVideoView
+                    android:id="@+id/commonVideoView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+                <!--
+                   <com.vomont.yundudao.view.VideoPlayView.VideoPlayView
+                    android:id="@+id/play_video_detail"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+                -->
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/vedio_project"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:orientation="horizontal"
+                    android:paddingBottom="@dimen/layout_3dp"
+                    android:paddingTop="@dimen/layout_3dp" >
+
+                    <TextView
+                        android:id="@+id/patrol_detail_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/layout_15dp"
+                        android:textColor="@color/biantai_gray"
+                        android:textSize="@dimen/textSize_13sp" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/layout_15dp"
+                        android:layout_weight="1"
+                        android:text="上传"
+                        android:textColor="@color/main_color"
+                        android:textSize="@dimen/textSize_13sp" />
+
+                    <ImageView
+                        android:id="@+id/patrol_detail_zhuapai"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="@dimen/layout_5dp"
+                        android:src="@drawable/spotsupervision_carmer" />
+
+                    <ImageView
+                        android:id="@+id/patrol_detail_shanpai"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="@dimen/layout_5dp"
+                        android:src="@drawable/spotsupervision_kuaipai" />
+
+                    <ImageView
+                        android:visibility="gone"
+                        android:id="@+id/patrol_detail_share"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="@dimen/layout_5dp"
+                        android:src="@drawable/spotsupervision_baocang" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layout_3dp"
+                    android:background="@color/alertdialog_line" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/layout_10dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/patrol_detail_subfatory"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/layout_15dp"
+                            android:layout_weight="1"
+                            android:textColor="@color/text_color"
+                            android:textSize="@dimen/textSize_12sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="上传时间："
+                            android:textColor="@color/text_color"
+                            android:textSize="@dimen/textSize_12sp" />
+
+                        <TextView
+                            android:id="@+id/patrol_detail_uptime"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="@dimen/layout_15dp"
+                            android:textColor="@color/text_color"
+                            android:textSize="@dimen/textSize_12sp" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/patrol_detail_desp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="@dimen/layout_10dp"
+                        android:layout_marginLeft="@dimen/layout_15dp"
+                        android:layout_marginRight="@dimen/layout_15dp"
+                        android:layout_marginTop="@dimen/layout_5dp"
+                        android:textColor="@color/text_color"
+                        android:textSize="@dimen/textSize_12sp" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layout_3dp"
+                    android:background="@color/alertdialog_line" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/alertdialog_line"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="@dimen/layout_15dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginBottom="@dimen/layout_3dp"
+                        android:layout_marginLeft="@dimen/layout_10dp"
+                        android:layout_marginTop="@dimen/layout_3dp"
+                        android:src="@drawable/mix" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/layout_5dp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="@string/new_pic"
+                        android:textColor="@color/actionsheet_gray"
+                        android:textSize="@dimen/textSize_12sp" />
+
+                    <ImageView
+                        android:id="@+id/patrol_to_pic"
+                        android:layout_width="@dimen/layout_15dp"
+                        android:layout_height="@dimen/layout_15dp"
+                        android:layout_gravity="center"
+                        android:layout_marginBottom="@dimen/layout_5dp"
+                        android:layout_marginRight="@dimen/layout_10dp"
+                        android:layout_marginTop="@dimen/layout_5dp"
+                        android:src="@drawable/personal_arrows" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/patrol_img"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layout_100dp"
+                    android:background="@color/white"
+                    android:orientation="horizontal"
+                    android:paddingBottom="@dimen/layout_10dp"
+                    android:paddingTop="@dimen/layout_10dp" >
+
+                    <TextView
+                        android:visibility="gone"
+                        android:id="@+id/patrol_empty_img"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="暂时没有数据" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/alertdialog_line"
+                    android:orientation="horizontal"
+                    android:visibility="gone" >
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="@dimen/layout_15dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginBottom="@dimen/layout_3dp"
+                        android:layout_marginLeft="@dimen/layout_10dp"
+                        android:layout_marginTop="@dimen/layout_3dp"
+                        android:src="@drawable/mix" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/layout_5dp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="@string/new_problem"
+                        android:textColor="@color/actionsheet_gray"
+                        android:textSize="@dimen/textSize_12sp" />
+
+                    <ImageView
+                        android:id="@+id/patrol_problem"
+                        android:layout_width="@dimen/layout_15dp"
+                        android:layout_height="@dimen/layout_15dp"
+                        android:layout_gravity="center"
+                        android:layout_marginBottom="@dimen/layout_5dp"
+                        android:layout_marginRight="@dimen/layout_10dp"
+                        android:layout_marginTop="@dimen/layout_5dp"
+                        android:src="@drawable/personal_arrows" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/white"
+                    android:orientation="horizontal"
+                    android:paddingBottom="@dimen/layout_10dp"
+                    android:paddingTop="@dimen/layout_10dp" >
+
+                    <TextView
+                        android:visibility="gone"
+                        android:id="@+id/patrol_empty_problem"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/layout_80dp"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="暂时没有数据" />
+
+                    <ListView
+                        android:id="@+id/patrol_problem_list"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:divider="@null"
+                        android:visibility="gone" >
+                    </ListView>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

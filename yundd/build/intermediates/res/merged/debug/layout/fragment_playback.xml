@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    android:orientation="vertical" >
+    
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <include layout="@layout/item_time_line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <LinearLayout
+                    android:id="@+id/ll_popup"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/back_color"
+                    android:orientation="vertical" >
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/layout_40dp"
+                        android:layout_marginBottom="@dimen/layout_5dp"
+                        android:layout_marginTop="@dimen/layout_5dp" >
+
+                        <RelativeLayout
+                            android:id="@+id/popupwindow_calendar_last_month"
+                            android:layout_width="@dimen/layout_60dp"
+                            android:layout_height="match_parent"
+                            android:layout_centerVertical="true"
+                            android:layout_toLeftOf="@+id/popupwindow_calendar_month" >
+
+                            
+                            <ImageView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentRight="true"
+                                android:layout_centerVertical="true"
+                                android:layout_marginRight="20dp"
+                                android:src="@drawable/registernaritem" />
+                        </RelativeLayout>
+
+                        <TextView
+                            android:id="@+id/popupwindow_calendar_month"
+                            android:layout_width="@dimen/layout_120dp"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true"
+                            android:gravity="center"
+                            android:textColor="@color/text_color"
+                            android:textSize="@dimen/textSize_16sp" />
+
+                        <RelativeLayout
+                            android:id="@+id/popupwindow_calendar_next_month"
+                            android:layout_width="@dimen/layout_80dp"
+                            android:layout_height="match_parent"
+                            android:layout_centerVertical="true"
+                            android:layout_toRightOf="@+id/popupwindow_calendar_month" >
+
+                            <ImageView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentRight="true"
+                                android:layout_centerVertical="true"
+                                android:layout_marginRight="20dp"
+                                android:src="@drawable/personal_arrows" />
+                        </RelativeLayout>
+                    </RelativeLayout>
+
+                    <com.vomont.yundudao.ui.calendar.KCalendar
+                        android:id="@+id/popupwindow_calendar"
+                        android:layout_width="match_parent"
+                        android:layout_height="320dp" >
+                    </com.vomont.yundudao.ui.calendar.KCalendar>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

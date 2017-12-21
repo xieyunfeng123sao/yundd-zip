@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color" >
+
+    <include
+        android:id="@+id/activity_top"
+        layout="@layout/top_layout" />
+
+    <ImageView
+        android:id="@+id/about_logo"
+        android:layout_width="@dimen/layout_100dp"
+        android:layout_height="@dimen/layout_100dp"
+        android:layout_below="@+id/activity_top"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/layout_40dp"
+        android:src="@drawable/yundd" />
+
+    <TextView
+        android:id="@+id/about_vesion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/about_logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/layout_20dp"
+        android:textColor="@color/biantai_gray"
+        android:textSize="@dimen/textSize_15sp" />
+
+    <LinearLayout
+        android:id="@+id/has_new_version"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/about_vesion"
+        android:layout_marginTop="@dimen/layout_10dp"
+        android:background="@drawable/linearlaytou_click"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/layout_20dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="@string/has_new_version"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/textSize_14sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/layout_5dp"
+            android:layout_marginRight="@dimen/layout_20dp"
+            android:layout_marginTop="@dimen/layout_5dp"
+            android:src="@drawable/securitycode_tabletag" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/new_pro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/has_new_version"
+        android:layout_marginTop="@dimen/layout_10dp"
+        android:background="@drawable/linearlaytou_click"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/layout_20dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="@string/new_pro"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/textSize_14sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/layout_5dp"
+            android:layout_marginRight="@dimen/layout_20dp"
+            android:layout_marginTop="@dimen/layout_5dp"
+            android:src="@drawable/securitycode_tabletag" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/about_ver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/new_pro"
+        android:layout_marginTop="@dimen/layout_10dp"
+        android:background="@drawable/linearlaytou_click"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/layout_20dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="@string/ver_msg"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/textSize_14sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/layout_5dp"
+            android:layout_marginRight="@dimen/layout_20dp"
+            android:layout_marginTop="@dimen/layout_5dp"
+            android:src="@drawable/securitycode_tabletag" />
+    </LinearLayout>
+
+</RelativeLayout>

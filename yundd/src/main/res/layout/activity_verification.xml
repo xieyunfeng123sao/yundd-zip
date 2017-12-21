@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    android:orientation="vertical" >
+
+    <include layout="@layout/top_layout" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/layout_20dp"
+        android:layout_marginRight="@dimen/layout_20dp"
+        android:layout_marginTop="@dimen/layout_20dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/verification_num"
+            android:textColor="@color/top_text_color"
+            android:textSize="@dimen/textSize_14sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/num"
+            android:textColor="@color/top_text_color"
+            android:textSize="@dimen/textSize_14sp" />
+
+        <TextView
+            android:id="@+id/verif_login_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/layout_5dp"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/textSize_14sp" />
+    </LinearLayout>
+
+    <com.jungly.gridpasswordview.GridPasswordView
+        android:id="@+id/ve_code"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_40dp"
+        android:layout_marginLeft="@dimen/layout_30dp"
+        android:layout_marginRight="@dimen/layout_30dp"
+        android:layout_marginTop="@dimen/layout_20dp"
+        android:weightSum="4" >
+    </com.jungly.gridpasswordview.GridPasswordView>
+
+    <Button
+        android:id="@+id/verif_login_next"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_45dp"
+        android:layout_marginLeft="@dimen/layout_20dp"
+        android:layout_marginRight="@dimen/layout_20dp"
+        android:layout_marginTop="@dimen/layout_40dp"
+        android:background="@drawable/text_register_pressed"
+        android:enabled="false"
+        android:gravity="center"
+        android:text="@string/next"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/textSize_16sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/layout_20dp"
+        android:layout_marginRight="@dimen/layout_20dp"
+        android:layout_marginTop="@dimen/layout_10dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/layout_5dp"
+            android:layout_toLeftOf="@+id/again_get_code"
+            android:text="@string/no_code"
+            android:textColor="@color/text_color" />
+
+        <TextView
+            android:id="@+id/again_get_code"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="@string/agin_get_code"
+            android:textColor="@color/main_color" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/layout_5dp"
+            android:layout_toRightOf="@+id/again_get_code"
+            android:text="@string/get_code"
+            android:textColor="@color/text_color" />
+    </RelativeLayout>
+
+</LinearLayout>

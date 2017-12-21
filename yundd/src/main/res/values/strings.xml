@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 绿网 -->
+    <string name="app_name">掌巡</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- 登录界面 -->
+    <string name="input_num">请输入手机号码</string>
+    <string name="num">+86</string>
+    <string name="input_psd">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="user_register">新用户注册</string>
+    <string name="register_login">验证码登录</string>
+    <string name="error_num_psd">手机号或密码不能为空</string>
+    <string name="error_num">手机号,密码或IP地址错误，登录失败</string>
+    <string name="error_login">登录失败，请检查网络或者IP地址！</string>
+
+    <!-- 注册界面 -->
+
+    <string name="look_psd">显示密码</string>
+    <string name="top_register">用户注册</string>
+    <string name="inputnum">填写11位手机号</string>
+    <string name="mesg_register">短信验证码</string>
+    <string name="get_msg">获取验证码</string>
+    <string name="inputpsd">请输入6—12位密码</string>
+    <string name="nextinputpsd">再次输入密码</string>
+    <string name="register">注册</string>
+    <string name="input_surenum">请输入正确的手机号</string>
+    <string name="password_type_error">您输入的密码格式不正确！</string>
+    <string name="two_password_error">密码输入不一致</string>
+    <string name="num_empty">手机号不能为空！</string>
+    <string name="erroe_code_get">获取验证码失败！</string>
+    <string name="num_hasregister">手机号已被注册</string>
+    <string name="error_code">验证码错误</string>
+    <string name="error_two_psd">密码输入不一致</string>
+    <string name="error_register">注册失败</string>
+
+    <!-- 输入号码界面 -->
+    <string name="top_num">输入手机号</string>
+    <string name="country">国家和地区</string>
+    <string name="w_country">中国</string>
+    <string name="phone_num">手机号码</string>
+    <string name="next">下一步</string>
+
+    <!-- 短信验证 -->
+    <string name="top_verification">填写验证码</string>
+    <string name="verification_num">验证码已发送到手机：</string>
+    <string name="no_code">收不到验证码？</string>
+    <string name="agin_get_code">重发短信</string>
+    <string name="get_code">获取验证码</string>
+    <string name="input_nice_code">验证码错误，登陆失败</string>
+    <string name="user_no_register">手机号未注册</string>
+
+    <!-- 重置密码界面 -->
+    <string name="top_new_psd">重置密码</string>
+    <string name="new_psd_top_1">设置密码后，你可以手机号和密码登录电脑版和手机版：</string>
+    <string name="new_psd_top_2">手机号码</string>
+    <string name="start_action">开始体验</string>
+    <string name="jump">跳过</string>
+    <string name="new_psd_fail">重置密码失败</string>
+
+    <!-- 首页 -->
+    <string name="radio_msg">消息</string>
+    <string name="radio_factory">组织</string>
+    <string name="radio_manager">管理</string>
+    <string name="radio_me">我的</string>
+
+    <!-- 我的 -->
+    <string name="problem">常见问题</string>
+    <string name="give_view">意见反馈</string>
+    <string name="change_psd">修改密码</string>
+    <string name="sys_setting">系统设置</string>
+    <string name="about">关于我们</string>
+    <string name="exit">注销</string>
+    <string name="exit_error">登出失败！</string>
+    <string name="error_image">头像上传失败</string>
+    <string name="error_getimage">头像获取失败</string>
+    <string name="video_setting">画面质量</string>
+
+    <!-- 修改密码 -->
+    <string name="change_psd_top">修改密码</string>
+    <string name="input_old_psd">请输入原始密码</string>
+    <string name="input_new_psd">请输入6-12位密码</string>
+    <string name="intput_again_psd">再次输入密码</string>
+    <string name="error_empty">密码不能为空</string>
+    <string name="change_sucess">密码修改成功</string>
+    <string name="change_fail">密码修改失败</string>
+    <string name="old_psd_fail">原始密码错误</string>
+    <!-- 系統設置 -->
+    <string name="setting_top">系统设置</string>
+    <string name="setting_message_new">新消息通知</string>
+    <string name="setting_cash">清除缓存 </string>
+
+    <!-- 新消息通知 -->
+    <string name="setting_msg_tixing">聊天消息提醒</string>
+    <string name="voice">声音</string>
+    <string name="shock">振动</string>
+
+    <!-- 关于我们 -->
+    <string name="about_us">关于我们</string>
+    <string name="has_new_version">检查新版本</string>
+    <string name="new_pro">新功能介绍</string>
+    <string name="ver_msg">版权信息</string>
+
+    <!-- fragment首页 -->
+    <string name="question_core">问题中心</string>
+    <string name="sys_notification">系统通知</string>
+    <string name="call_police">报警</string>
+
+    <!-- fragment工厂 -->
+    <string name="factory_num">巡视区域</string>
+    <string name="monitoring_num">监控设备</string>
+    <string name="visible_num">可视0%</string>
+    <string name="online_num">在线0%</string>
+    <string name="factory_qu">巡视点</string>
+    <string name="shebei">设备</string>
+    <string name="text_num">0</string>
+
+    <!-- 消息列表 -->
+    <string name="msg_list">消息列表</string>
+    <string name="look_allmsg">查看全文</string>
+    <string name="msg_all">消息详情</string>
+
+    <!-- 工厂 -->
+    <string name="input_text">输入巡视点名</string>
+    <string name="take_photo">抓拍</string>
+    <string name="snapshot">快拍</string>
+    <string name="collect">收藏</string>
+    <string name="yuntai">云台</string>
+    <string name="share">分享</string>
+    <string name="talkback">对讲</string>
+    <string name="new_pic">最新图片</string>
+    <string name="new_problem">最新问题</string>
+
+    <!-- 实时预览 -->
+    <string name="five">5分钟</string>
+    <string name="one_hour">1小时</string>
+    <string name="one_day">24小时</string>
+
+    <!-- 图片中心 -->
+    <string name="share_img">转发</string>
+    <string name="download">下载</string>
+    <string name="problem_send">问题发送</string>
+    <string name="missdate">到期日：</string>
+    <string name="factoryname">厂 名：</string>
+    <string name="monitoring_points">监控设备：</string>
+    <string name="detailrule">细  则：</string>
+    <string name="dealman">处理人：</string>
+    <string name="describe">描述：</string>
+    <string name="problemdetail">问题详情</string>
+    <string name="add_img">添加一张图片</string>
+    <string name="tag">标         签：</string>
+    <string name="copyman">抄送人：</string>
+    <string name="select_fatory">选择监控设备</string>
+    <string name="stop_date">到期日：</string>
+    <string name="sure">确定</string>
+    <string name="addspeak">请输入问题描述(不超过20个字符)</string>
+    <string name="pull_to_load">上拉加载</string>
+    <string name="loading">加载中</string>
+    <string name="release_to_load">加载完成</string>
+    <string name="speak">评论：</string>
+    <string name="problemhandle">问题处理</string>
+    <string name="handle_result">处理结果：</string>
+    <string name="rectification_complete">整改完成</string>
+    <string name="no_rectification">无需整改</string>
+    <string name="review_complete">复查通过</string>
+    <string name="no_review">复查不合格</string>
+    <string name="patrol">现场巡视</string>
+    <string name="cancel">取消</string>
+    <string name="search_date">找日期</string>
+    <string name="input_search_txt">自动填写输入的内容</string>
+    <string name="search_factory">找工厂</string>
+    <string name="search_sub">找厂区</string>
+    <string name="search_input_text">找描述内容</string>
+    <string name="load_vedio">视频上传</string>
+    <string name="vedio_play">视频预览</string>
+	<string name="vedio_recorde">拍摄时间：</string>
+	<string name="look_man">查看人员：</string>
+	<string name="vedio_address">所属地点：</string>
+	<string name="vedio_conn">视频描述：</string>
+	<string name="preservation">保存</string>
+	<string name="upload">上传</string>
+
+	
+	
+	    <string name="chat_video_too_short">录制过短，请重试</string>
+    <!-- 压缩-->
+    <string name="compress_load_library_succeed">加载库成功</string>
+    <string name="compress_load_library_failed">加载库失败,原因:%1$s</string>
+    <string name="compress_succeed">压缩成功</string>
+    <string name="compress_failed">压缩失败,原因: %1$s</string>
+    <string name="compress_progress">进度: %1$s</string>
+    <string name="compree_please_input_command">请输入命令</string>
+
+    <!-- 录制视频-->
+    <string name="record_video">录制视频</string>
+    <string name="run_compress_command">运行压缩命令</string>
+    <string name="no_video_tips">视频文件不存在,请先录制视频</string>
+    <string name="fail_when_camera_try_autofocus">对焦失败:%1$s</string>
+    <string name="dont_have_camera_error">对不起,没有发现摄像头,请检查</string>
+    <string name="only_have_one_camera">对不起,您只有一个摄像头,无法切换</string>
+    <string name="video_captured">视频已成功录制</string>
+    <string name="camera_init_fail">摄像头初始化失败</string>
+    <string name="dont_have_front_camera">当前设备没有前置摄像头</string>
+    <string name="changing_flashLight_mode">切换闪光灯模式失败</string>
+    <string name="open_video">打开视频</string>
+    <string name="confirm">确定</string>
+    <string name="compress_result_input_output">输入:%1$s,大小:%2$s,输出:%3$s,大小:%4$s</string>
+    <string name="path">视频路径:%1$s,大小:%2$s</string>
+    <string name="dont_have_app_to_open_file">没有支持此格式的播放器</string>
+</resources>

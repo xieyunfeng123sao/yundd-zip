@@ -1,0 +1,574 @@
+[
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_import.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_import.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mangager.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\fragment_mangager.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_tag.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_select_tag.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_problem_list.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_problem_list.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addpic.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_addpic.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\progressing_dialog.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\progressing_dialog.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_msg_lilst.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_msg_lilst.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_problem.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_new_problem.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\mybar.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\mybar.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_expand_dev.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_expand_dev.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_factory.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\fragment_factory.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_dealman.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_select_dealman.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_tag.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_listview_tag.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_changepsd.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_changepsd.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manual_inspection.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_manual_inspection.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\piechartview.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\piechartview.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_video_input.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\dialog_video_input.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\layout_problemtype_popu.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\layout_problemtype_popu.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\layout_popu_selectfactory.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\layout_popu_selectfactory.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_callpolice.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_callpolice.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\gridpasswordview_textview.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\gridpasswordview_textview.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\top_layout.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\top_layout.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\pullrefresh\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_img.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_detail_img.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_playback.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\fragment_playback.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\pullrefresh\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_select_form_type.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_select_form_type.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_copyman.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_select_copyman.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_basic_function.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\fragment_basic_function.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_tagitem.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_listview_tagitem.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registernum.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_registernum.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vedio_action.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_vedio_action.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vedio_factory.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_vedio_factory.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\empty_layout.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\empty_layout.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_import_face_img.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_import_face_img.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_piclist.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_piclist.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_problem_action.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_problem_action.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ip_setting.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_ip_setting.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verif_psd.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_verif_psd.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_timeline.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_timeline.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patrol_list.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_patrol_list.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patrol_fatory.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_patrol_fatory.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_ip.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_ip.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\view_actionsheet.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\view_actionsheet.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_problem_tome.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\fragment_problem_tome.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_problem_img_list.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_problem_img_list.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_header.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_list_header.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_manual_dev.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_manual_dev.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reportfrom.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_reportfrom.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_video_load_proress.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_video_load_proress.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_me.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\view_alertdialog.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\view_alertdialog.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_playback.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_playback.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_problem_details.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_problem_details.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_setting.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_image_setting.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_patrol_list.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_patrol_list.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_deletevideo.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_deletevideo.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\date_alert_dialog.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\date_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_adapter.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_adapter.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\piechart_item.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\piechart_item.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_problem_status.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_problem_status.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_form_select_type.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_form_select_type.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_fragment_factory.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_fragment_factory.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_problem_handle.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_problem_handle.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\gridpasswordview.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\gridpasswordview.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_detal_listview.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_detal_listview.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_factory.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_select_factory.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\menu_activity.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\menu_activity.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_setting.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_video_setting.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_msg.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_setting_msg.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\gridpasswordview_divider.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\gridpasswordview_divider.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_noload.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\fragment_noload.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_input.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_video_input.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\expandview.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\expandview.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_canlook.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_canlook.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_time_line.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_time_line.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_report_more_gridview.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_report_more_gridview.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_all_pic.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_all_pic.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\vedio_playview.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\vedio_playview.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_video_load.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_video_load.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_msg_list.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_msg_list.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_vedio_problem.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_vedio_problem.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_add_pic.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_gridview_add_pic.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manual_detail.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_manual_detail.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_nexttagitem.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_listview_nexttagitem.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_allload.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\fragment_allload.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_manual_list.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_manual_list.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_factory.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_factory.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_action_list.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_action_list.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creat_problem.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_creat_problem.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_problem_sendtome.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_problem_sendtome.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\linearlayout_bottom.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\linearlayout_bottom.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verification.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_verification.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_load.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_load.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_ios_edit.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_ios_edit.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patrol_requeset_vedio.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_patrol_requeset_vedio.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_reportform.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_reportform.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\brochart_item.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\brochart_item.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imgview.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_imgview.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_form_dev.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_form_dev.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_videoedit.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_videoedit.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_edit.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_video_edit.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_more_report.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_more_report.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_popup_stream.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_popup_stream.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_image.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_change_image.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selecttag.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_selecttag.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_media_recorder.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\layout\\activity_media_recorder.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_report_more_list.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_report_more_list.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patrol_search.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_patrol_search.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mediaplay.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_mediaplay.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patrol_detail.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_patrol_detail.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_msg_all.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_msg_all.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_import.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_import.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_video_delete.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_video_delete.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridveiw.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_gridveiw.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_problem_detail.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_problem_detail.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_look_people.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_look_people.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_pic_gridview.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_pic_gridview.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\loading_dialog.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_problem_list.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_problem_list.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manual_video.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_manual_video.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_report_more.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_report_more.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_expand_subfactory.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_expand_subfactory.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_piclist.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_piclist.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_send_pic.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_send_pic.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_problem_img.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_problem_img.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_previewpic.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_previewpic.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feedback.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patrol_vedio.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_patrol_vedio.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_popu_factory.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_popu_factory.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_load.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\fragment_load.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_appproblem.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_appproblem.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_manger.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_gridview_manger.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\common_video_view.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\common_video_view.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\brokenlinechartview.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\brokenlinechartview.xml"
+    }
+]

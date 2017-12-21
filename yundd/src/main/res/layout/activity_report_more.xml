@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    android:orientation="vertical" >
+
+    <include layout="@layout/top_layout" />
+
+    <ScrollView
+        android:id="@+id/scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/layout_10dp"
+                android:background="@color/white"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layout_50dp"
+                    android:background="@color/main_color"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:layout_width="@dimen/layout_35dp"
+                        android:layout_height="@dimen/layout_35dp"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="@dimen/layout_10dp"
+                        android:src="@drawable/statistics_analyzresult" />
+
+                    <TextView
+                        android:id="@+id/report_starttime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="@dimen/layout_10dp"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/textSize_13sp" />
+
+                    <View
+                        android:layout_width="@dimen/layout_30dp"
+                        android:layout_height="@dimen/layout_1dp"
+                        android:layout_gravity="center"
+                        android:background="@color/white" />
+
+                    <TextView
+                        android:id="@+id/report_endtime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/textSize_13sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/layout_20dp"
+                    android:layout_marginTop="@dimen/layout_10dp"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/layout_5dp"
+                        android:layout_marginTop="@dimen/layout_10dp"
+                        android:text="问题类型"
+                        android:textColor="@color/biantai_gray"
+                        android:textSize="@dimen/textSize_15sp" />
+
+                    <com.vomont.yundudao.view.flow.TagFlowLayout
+                        android:id="@+id/tag_report"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:numColumns="3" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/list_report"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:divider="@null"
+                android:listSelector="@color/white" >
+            </ListView>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

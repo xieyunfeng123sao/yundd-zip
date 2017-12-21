@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/playback_top"
+        layout="@layout/top_layout" />
+
+    <RelativeLayout
+        android:id="@+id/play_back_all"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@color/text_color" >
+
+        <RelativeLayout
+            android:id="@+id/playback_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/black" >
+
+            <ProgressBar
+                android:id="@+id/playback_progressbar"
+                style="@style/mProgress_circle"
+                android:layout_width="@dimen/layout_25dp"
+                android:layout_height="@dimen/layout_25dp"
+                android:layout_centerInParent="true"
+                android:indeterminate="true" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/play_back_control_rl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/trans" >
+
+            <ImageView
+                android:id="@+id/play_back_stop"
+                android:layout_width="@dimen/layout_15dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/layout_10dp"
+                android:src="@drawable/icon_play" />
+
+            <ImageView
+                android:id="@+id/play_back_zhua"
+                android:layout_width="@dimen/layout_20dp"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/layout_15dp"
+                android:layout_toLeftOf="@+id/play_back_kuai"
+                android:src="@drawable/factory_device_bar_snapshot" />
+
+            <ImageView
+                android:id="@+id/play_back_kuai"
+                android:layout_width="@dimen/layout_20dp"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/layout_15dp"
+                android:layout_toLeftOf="@+id/play_back_voice"
+                android:src="@drawable/factory_device_bar_carmer" />
+
+            <ImageView
+                android:id="@+id/play_back_voice"
+                android:layout_width="@dimen/layout_20dp"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/layout_15dp"
+                android:layout_toLeftOf="@+id/play_back_change"
+                android:src="@drawable/factory_device_voice" />
+
+            <ImageView
+                android:id="@+id/play_back_change"
+                android:layout_width="@dimen/layout_20dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/layout_10dp"
+                android:src="@drawable/videoplay" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/play_back_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <include
+                layout="@layout/item_time_line"
+                android:visibility="gone" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/layout_20dp"
+                android:layout_marginTop="@dimen/layout_10dp"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/five_min"
+                    android:layout_width="@dimen/layout_50dp"
+                    android:layout_height="@dimen/layout_25dp"
+                    android:layout_marginLeft="@dimen/layout_15dp"
+                    android:background="@drawable/time_button_bg_pressed"
+                    android:text="@string/five"
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/textSize_11sp" />
+
+                <Button
+                    android:id="@+id/one_hour"
+                    android:layout_width="@dimen/layout_50dp"
+                    android:layout_height="@dimen/layout_25dp"
+                    android:layout_marginLeft="@dimen/layout_15dp"
+                    android:background="@drawable/time_button_bg_pressed"
+                    android:text="@string/one_hour"
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/textSize_11sp" />
+
+                <Button
+                    android:id="@+id/one_day"
+                    android:layout_width="@dimen/layout_50dp"
+                    android:layout_height="@dimen/layout_25dp"
+                    android:layout_marginLeft="@dimen/layout_20dp"
+                    android:background="@drawable/time_button_bg"
+                    android:text="@string/one_day"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/textSize_11sp" />
+            </LinearLayout>
+
+            <com.vomont.yundudao.view.playback.PlayBackSeekBar
+                android:id="@+id/playbackbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <LinearLayout
+                    android:id="@+id/ll_popup"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/back_color"
+                    android:orientation="vertical" >
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/layout_40dp"
+                        android:layout_marginBottom="@dimen/layout_5dp"
+                        android:layout_marginTop="@dimen/layout_5dp" >
+
+                        <RelativeLayout
+                            android:id="@+id/popupwindow_calendar_last_month"
+                            android:layout_width="@dimen/layout_50dp"
+                            android:layout_height="match_parent"
+                            android:layout_centerVertical="true"
+                      >
+
+                            <ImageView
+                                android:layout_width="25dp"
+                                android:layout_height="25dp"
+                                android:layout_alignParentRight="true"
+                                android:layout_centerVertical="true"
+                                android:layout_marginLeft="20dp"
+                                android:src="@drawable/left_k" />
+                        </RelativeLayout>
+
+                        <TextView
+                            android:id="@+id/popupwindow_calendar_month"
+                            android:layout_width="@dimen/layout_120dp"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true"
+                            android:gravity="center"
+                            android:textColor="@color/text_color"
+                            android:textSize="@dimen/textSize_16sp" />
+
+                        <RelativeLayout
+                            android:id="@+id/popupwindow_calendar_next_month"
+                            android:layout_width="@dimen/layout_70dp"
+                            android:layout_height="match_parent"
+                            android:layout_centerVertical="true"
+                            android:layout_alignParentRight="true" >
+
+                            <ImageView
+                                android:layout_width="25dp"
+                                android:layout_height="25dp"
+                                android:layout_alignParentRight="true"
+                                android:layout_centerVertical="true"
+                                android:layout_marginRight="20dp"
+                                android:src="@drawable/rigth_k" />
+                        </RelativeLayout>
+                    </RelativeLayout>
+
+                    <com.vomont.yundudao.ui.calendar.KCalendar
+                        android:id="@+id/popupwindow_calendar"
+                        android:layout_width="match_parent"
+                        android:layout_height="320dp" >
+                    </com.vomont.yundudao.ui.calendar.KCalendar>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,914 @@
+[
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_dot_three.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\new_dot_three.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_full.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\icon_full.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\manage_auto_tour.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\manage_auto_tour.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videosurveillance_snap.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\videosurveillance_snap.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_factoryname.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_factoryname.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_fast_rewind_white_24dp.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\ic_fast_rewind_white_24dp.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\statistics_analyzresult.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\statistics_analyzresult.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\pullrefresh\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_playback_uploadbtn.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_playback_uploadbtn.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\calendar_bg_tag.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\calendar_bg_tag.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handtour_progect_update.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\handtour_progect_update.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_mainpage_tag.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_mainpage_tag.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_calarter.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_calarter.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_device.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_device.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\manage_picture.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\manage_picture.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_off.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\button_off.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videosurveillance_snap_no.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\videosurveillance_snap_no.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_factory.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_factory.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_flash_on_white.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\ic_flash_on_white.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_update.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_update.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_tag.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_tag.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_voice.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\no_voice.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_factoryeare.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_factoryeare.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videosurveillance_vedio.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\videosurveillance_vedio.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_factoryname_flog.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_factoryname_flog.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_deleteo.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_deleteo.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\picturecenter_alarm.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\picturecenter_alarm.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fanzhuan.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\fanzhuan.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\problem_call.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\problem_call.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\calendar_btn.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\calendar_btn.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_normal.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_normal.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_device_yuntai.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_device_yuntai.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\picture_back.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\picture_back.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_kaifa.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\no_kaifa.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tp_bg.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\tp_bg.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\report_point.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\report_point.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kaung_2.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\kaung_2.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_factory.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_factory.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_device_bar_play.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_device_bar_play.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\pullrefresh\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_drawpic_cancle.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_drawpic_cancle.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videoediting_right.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\videoediting_right.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\manage_alarm_center.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\manage_alarm_center.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cicle.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\cicle.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\picturecenter_send.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\picturecenter_send.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\delete.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playbackbtn.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\playbackbtn.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_dot_two.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\new_dot_two.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_device_bar_expand.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_device_bar_expand.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mix.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\mix.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\personal_select.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\personal_select.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_badge_two.jpg",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\main_badge_two.jpg"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_playback_startbtn.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_playback_startbtn.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_re.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\video_re.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\manage_hand.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\manage_hand.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videosurveillance_daoru_no.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\videosurveillance_daoru_no.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_device_bar_snapshot.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_device_bar_snapshot.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\personal_aboutus.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\personal_aboutus.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_pause.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\icon_pause.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_yuntai.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_yuntai.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_flash_off_white.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\ic_flash_off_white.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_drawpic_selundo.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_drawpic_selundo.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_playback_vediotem.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_playback_vediotem.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yundd.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\yundd.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_camera_menu_switch.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\ic_camera_menu_switch.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_tape_stop.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\video_tape_stop.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_playback_lookpeople_o.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_playback_lookpeople_o.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_qacenter.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\message_qacenter.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wechat.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\wechat.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\personal_faq.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\personal_faq.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_playbtn.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_playbtn.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handtour_devicecount.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\handtour_devicecount.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_device_bar_stop.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_device_bar_stop.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\personal_setting.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\personal_setting.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bianji.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\bianji.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_factoryname_area.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_factoryname_area.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_playback_lookpeople.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_playback_lookpeople.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_select.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_select.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\personal_defaultplayericon.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\personal_defaultplayericon.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\manage_task_center.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\manage_task_center.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_dealpeople.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_dealpeople.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phonenum_select.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\phonenum_select.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kaung.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\kaung.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\start_video.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\start_video.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topdemo.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\topdemo.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handtour_delete.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\handtour_delete.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_drawpic_pen.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_drawpic_pen.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videosurveillance_upload.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\videosurveillance_upload.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_otherpeople_select.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_otherpeople_select.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videoplay.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\videoplay.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\picturecenter_download.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\picturecenter_download.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_desption.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_desption.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_cell_btnforbid.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_cell_btnforbid.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\finish_yuntai.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\finish_yuntai.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handtour_add.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\handtour_add.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shu.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\shu.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\huakua.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\huakua.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videosurveillance_upload_no.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\videosurveillance_upload_no.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_select.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\message_select.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_system.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\message_system.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_vediopic.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_vediopic.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\callpo.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\callpo.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\trans_bg.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\trans_bg.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toggle_btn_checked.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\toggle_btn_checked.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\picturecenter_transpond.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\picturecenter_transpond.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vedio_start.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\vedio_start.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\personal_picquict.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\personal_picquict.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toggle_btn_unchecked.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\toggle_btn_unchecked.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_kuaipai.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_kuaipai.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\manage_port.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\manage_port.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_back_video.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\go_back_video.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\eye_password_select.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\eye_password_select.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\manage_normal.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\manage_normal.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handtour_circulation.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\handtour_circulation.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_password.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\register_password.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videoediting_left.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\videoediting_left.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\accountpassword_gap.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\accountpassword_gap.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\barnar_background.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\barnar_background.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iconfont_exit.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\iconfont_exit.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_changepicture.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_changepicture.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_lock.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_lock.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handtour_time.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\handtour_time.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_save.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_save.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vedio_expand.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\vedio_expand.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circle.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\circle.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_qq.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\share_qq.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_otherpeople.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_otherpeople.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_sys_arrows.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\message_sys_arrows.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\paizhao.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\paizhao.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\personal_normal.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\personal_normal.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\problem_man.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\problem_man.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_normal.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\message_normal.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_background.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\login_background.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\accountpassword_lock.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\accountpassword_lock.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_upload_jiantou.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_upload_jiantou.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\def.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\def.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_message.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\register_message.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\manage_scence_tour.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\manage_scence_tour.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_device_voice.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_device_voice.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_device_playback.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_device_playback.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_stop.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\player_stop.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_icon_normal.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\search_bar_icon_normal.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\manage_barnar.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\manage_barnar.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handtour_edit.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\handtour_edit.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_device_camera.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_device_camera.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_factorypic.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_factorypic.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_uploadbtn.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_uploadbtn.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_box_play.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\video_box_play.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iconfont_enter_32.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\iconfont_enter_32.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_camera.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\video_camera.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_fast_forward_white_24dp.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\ic_fast_forward_white_24dp.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_baocang.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_baocang.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rigth_k.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\rigth_k.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\personal_newmessage.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\personal_newmessage.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_drawpic_undo.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_drawpic_undo.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\addimg.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\addimg.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_carmer.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_carmer.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_playback_lookpeople_oo.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_playback_lookpeople_oo.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\problem_date.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\problem_date.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\load.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\load.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_device_favorite.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_device_favorite.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_device_share.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_device_share.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vedio_replay.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\vedio_replay.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videosurveillance_daoru.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\videosurveillance_daoru.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\manage_select.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\manage_select.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_drawpic_confirm.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_drawpic_confirm.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhangxun120.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\zhangxun120.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_device_menu.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_device_menu.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\pullrefresh\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_iplist_close.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\login_iplist_close.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sel.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\sel.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_badge_three.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\main_badge_three.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\eye_password.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\eye_password.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_record.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\player_record.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_device_bar_carmer.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_device_bar_carmer.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handtour_progect.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\handtour_progect.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_picmanag.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_picmanag.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\personal_password.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\personal_password.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\log.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\log.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\personal_arrows.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\personal_arrows.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\personal_feedback.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\personal_feedback.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handtour_more.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\handtour_more.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_playback_searchbtn.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_playback_searchbtn.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_on.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\button_on.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_username.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\register_username.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_factoryname_factory.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_factoryname_factory.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_drawpic_selyuan.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_drawpic_selyuan.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reportform_wen.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\reportform_wen.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\paizhaostop.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\paizhaostop.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_ip.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\login_ip.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\def_qq.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\def_qq.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_drawpic_selpen.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_drawpic_selpen.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_delete.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_delete.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_play.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\icon_play.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\problem_subfactory.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\problem_subfactory.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\securitycode_tabletag.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\securitycode_tabletag.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_otherpeople_unselect.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_otherpeople_unselect.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yundd_question.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\yundd_question.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_imprt.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\video_imprt.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_alarmming.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\message_alarmming.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left_k.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\left_k.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_video_play.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\icon_video_play.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_factoryname_top.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_factoryname_top.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handtour_minus.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\handtour_minus.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_video_pause.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\icon_video_pause.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_drawpic_yuan.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_drawpic_yuan.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_drawpicture.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_drawpicture.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_drawpic_redo.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_drawpic_redo.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seek_thumb.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\seek_thumb.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\timeline_point.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\timeline_point.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\registernaritem.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\registernaritem.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_upload_shixin.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_upload_shixin.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sel_qq.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\sel_qq.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emotionstore_progresscancelbtn.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\emotionstore_progresscancelbtn.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qcenter_drawpic_selredo.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\qcenter_drawpic_selredo.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_playback_unlookpeople.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_playback_unlookpeople.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vedio_stop.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\vedio_stop.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handtour_add2.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\handtour_add2.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_wx.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\share_wx.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\manage_queition_center.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\manage_queition_center.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_upload.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\video_upload.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_device_snapshot.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_device_snapshot.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\factory_device_tallback.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\factory_device_tallback.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spotsupervision_date.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\spotsupervision_date.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stop_video.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-hdpi\\stop_video.png"
+    }
+]

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/top"
+        layout="@layout/top_layout" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <VideoView
+            android:id="@+id/videoedit_video"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/bottom" />
+
+        <RelativeLayout
+            android:id="@+id/bottom"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/actionsheet_gray" >
+
+            <LinearLayout
+                android:id="@+id/videoedit_ll"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_margin="@dimen/layout_5dp"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="编辑视频"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/textSize_12sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="掌巡只能上传5分钟内的视频，需进行编辑。"
+                    android:textColor="@color/alertdialog_line"
+                    android:textSize="@dimen/textSize_10sp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/videoedit_edit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:padding="@dimen/layout_5dp"
+                android:text="编辑"
+                android:textColor="@color/white"
+                android:textSize="@dimen/textSize_13sp" />
+
+            <TextView
+                android:id="@+id/videoedit_ok"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:padding="@dimen/layout_5dp"
+                android:text="完成"
+                android:textColor="@color/main_color"
+                android:textSize="@dimen/textSize_13sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/videoedit_play"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/spotsupervision_playback_startbtn" />
+    </RelativeLayout>
+
+</LinearLayout>

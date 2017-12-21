@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\clearedittext_bg.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-xxhdpi\\clearedittext_bg.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_camera_flash_led_on_pressed.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\drawable-xxhdpi-v4\\record_camera_flash_led_on_pressed.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_camera_switch_normal.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\drawable-xxhdpi-v4\\record_camera_switch_normal.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_next_normal.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\drawable-xxhdpi-v4\\record_next_normal.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_cancel_press.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\drawable-xxhdpi-v4\\record_cancel_press.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_camera_switch_disable.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\drawable-xxhdpi-v4\\record_camera_switch_disable.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_camera_switch_pressed.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\drawable-xxhdpi-v4\\record_camera_switch_pressed.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_next_press.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\drawable-xxhdpi-v4\\record_next_press.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_delete_check_press.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\drawable-xxhdpi-v4\\record_delete_check_press.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_camera_flash_led_on_disable.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\drawable-xxhdpi-v4\\record_camera_flash_led_on_disable.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_delete_press.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\drawable-xxhdpi-v4\\record_delete_press.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_camera_flash_led_on_normal.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\drawable-xxhdpi-v4\\record_camera_flash_led_on_normal.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_delete_check_normal.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\drawable-xxhdpi-v4\\record_delete_check_normal.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_delete_normal.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\drawable-xxhdpi-v4\\record_delete_normal.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_camera_flash_led_off_pressed.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\drawable-xxhdpi-v4\\record_camera_flash_led_off_pressed.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_camera_flash_led_off_disable.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\drawable-xxhdpi-v4\\record_camera_flash_led_off_disable.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_cancel_normal.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\drawable-xxhdpi-v4\\record_cancel_normal.png"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\record_camera_flash_led_off_normal.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\afe420d466e351bf998b331cf8bcc27a1b3b1b61\\output\\res\\drawable-xxhdpi-v4\\record_camera_flash_led_off_normal.png"
+    }
+]

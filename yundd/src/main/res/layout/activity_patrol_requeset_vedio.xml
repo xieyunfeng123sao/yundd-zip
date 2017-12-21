@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/alertdialog_line"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_50dp"
+        android:background="@color/top_app_color"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/load_vedio_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:paddingLeft="@dimen/layout_20dp"
+            android:scaleType="center"
+            android:src="@drawable/registernaritem" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="@string/load_vedio"
+            android:textColor="@color/top_text_color"
+            android:textSize="@dimen/textSize_18sp" />
+
+        <ImageView
+            android:id="@+id/action_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/layout_10dp"
+            android:src="@drawable/spotsupervision_picmanag" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/to_loadingactivity"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="@dimen/layout_10dp"
+            android:layout_marginLeft="@dimen/layout_10dp"
+            android:src="@drawable/spotsupervision_playback_uploadbtn" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/layout_5dp"
+            android:text="正在上传"
+            android:textSize="@dimen/textSize_13sp" />
+
+        <TextView
+            android:id="@+id/now_updata_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="(0)"
+            android:textSize="@dimen/textSize_13sp" />
+
+        <TextView
+            android:id="@+id/updata_size"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/layout_5dp"
+            android:layout_weight="1"
+            android:text="0%"
+            android:textColor="@color/main_color"
+            android:textSize="@dimen/textSize_13sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/updata_ks"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="@dimen/layout_5dp"
+                android:text="0KB/S"
+                android:textColor="@color/main_color"
+                android:textSize="@dimen/textSize_13sp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/layout_10dp"
+                android:src="@drawable/spotsupervision_upload_jiantou" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="@dimen/layout_3dp"
+        android:id="@+id/vedio_project"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:paddingTop="@dimen/layout_15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="horizontal"
+            android:padding="10dp" >
+
+            <TextView
+                android:id="@+id/tv_unload_vedio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:gravity="center"
+                android:text="未上传"
+                android:textColor="@color/main_color"
+                android:textSize="@dimen/textSize_16sp" />
+
+            <TextView
+                android:textColor="@color/text_color"
+                android:id="@+id/tv_all_vedio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:gravity="center"
+                android:text="全部"
+                android:textSize="@dimen/textSize_16sp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/vedio_cursor"
+            android:layout_width="80dp"
+            android:layout_height="@dimen/layout_3dp"
+            android:background="@color/main_color" />
+
+        <android.support.v4.view.ViewPager
+            android:background="@color/white"
+            android:id="@+id/load_vedio_viewpager"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:flipInterval="30"
+            android:persistentDrawingCache="animation" />
+    </LinearLayout>
+
+
+</LinearLayout>

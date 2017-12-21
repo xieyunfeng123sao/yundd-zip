@@ -1,0 +1,1069 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:2:1-776:12
+	package
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml
+		INJECTED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml
+		INJECTED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml
+		INJECTED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:6:5-7:23
+MERGED from [AndroidClient-yundd:wMFileLoadSdk:unspecified] E:\ASyundd\AndroidClient-yundd\wMFileLoadSdk\build\intermediates\bundles\default\AndroidManifest.xml:16:5-84
+MERGED from [com.mabeijianxi:small-video-record2:2.0.3] C:\Users\Administrator\.android\build-cache\afe420d466e351bf998b331cf8bcc27a1b3b1b61\output\AndroidManifest.xml:14:5-84
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:6:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:9:5-80
+MERGED from [AndroidClient-yundd:wMFileLoadSdk:unspecified] E:\ASyundd\AndroidClient-yundd\wMFileLoadSdk\build\intermediates\bundles\default\AndroidManifest.xml:12:5-80
+MERGED from [com.mabeijianxi:small-video-record2:2.0.3] C:\Users\Administrator\.android\build-cache\afe420d466e351bf998b331cf8bcc27a1b3b1b61\output\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.INTERNET
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:11:5-67
+MERGED from [AndroidClient-yundd:wMFileLoadSdk:unspecified] E:\ASyundd\AndroidClient-yundd\wMFileLoadSdk\build\intermediates\bundles\default\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.CAMERA
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:18:5-65
+MERGED from [com.mabeijianxi:small-video-record2:2.0.3] C:\Users\Administrator\.android\build-cache\afe420d466e351bf998b331cf8bcc27a1b3b1b61\output\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:18:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:20:5-71
+MERGED from [com.mabeijianxi:small-video-record2:2.0.3] C:\Users\Administrator\.android\build-cache\afe420d466e351bf998b331cf8bcc27a1b3b1b61\output\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:20:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:22:5-81
+MERGED from [AndroidClient-yundd:wMFileLoadSdk:unspecified] E:\ASyundd\AndroidClient-yundd\wMFileLoadSdk\build\intermediates\bundles\default\AndroidManifest.xml:18:5-81
+MERGED from [com.mabeijianxi:small-video-record2:2.0.3] C:\Users\Administrator\.android\build-cache\afe420d466e351bf998b331cf8bcc27a1b3b1b61\output\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:24:5-79
+MERGED from [AndroidClient-yundd:wMFileLoadSdk:unspecified] E:\ASyundd\AndroidClient-yundd\wMFileLoadSdk\build\intermediates\bundles\default\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:26:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:28:5-76
+MERGED from [AndroidClient-yundd:wMFileLoadSdk:unspecified] E:\ASyundd\AndroidClient-yundd\wMFileLoadSdk\build\intermediates\bundles\default\AndroidManifest.xml:22:5-76
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:28:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:30:5-75
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:30:22-72
+application
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:32:5-774:19
+MERGED from [AndroidClient-yundd:pullrefresh:unspecified] E:\ASyundd\AndroidClient-yundd\pullrefresh\build\intermediates\bundles\default\AndroidManifest.xml:11:5-20
+MERGED from [AndroidClient-yundd:wMFileLoadSdk:unspecified] E:\ASyundd\AndroidClient-yundd\wMFileLoadSdk\build\intermediates\bundles\default\AndroidManifest.xml:24:5-29:19
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:40:9-45
+	android:label
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:39:9-41
+	xmlns:tools
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:34:9-55
+	android:allowBackup
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:37:9-35
+	android:icon
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:38:9-39
+		REJECTED from [AndroidClient-yundd:wMFileLoadSdk:unspecified] E:\ASyundd\AndroidClient-yundd\wMFileLoadSdk\build\intermediates\bundles\default\AndroidManifest.xml:26:9-45
+	android:largeHeap
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:33:9-33
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:41:9-62
+		REJECTED from [AndroidClient-yundd:wMFileLoadSdk:unspecified] E:\ASyundd\AndroidClient-yundd\wMFileLoadSdk\build\intermediates\bundles\default\AndroidManifest.xml:28:9-40
+	tools:replace
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:35:9-52
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:36:9-65
+service#com.vomont.yundudao.conent.UpDataService
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:42:9-43:19
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:42:18-73
+activity#com.vomont.yundudao.MainActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:47:9-56:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:49:13-49
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:50:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:48:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:54:27-74
+activity#com.vomont.yundudao.ui.RegisterActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:58:9-68:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:61:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:60:13-44
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:62:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:59:13-67
+intent-filter#android.intent.action.registeractivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:63:13-67:29
+action#android.intent.action.registeractivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:64:17-81
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:64:25-78
+category#android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:66:17-76
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:66:27-73
+activity#com.vomont.yundudao.ui.verification.VerificationNumActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:70:9-80:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:73:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:72:13-44
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:74:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:71:13-87
+intent-filter#android.intent.action.registernumactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:75:13-79:29
+action#android.intent.action.registernumactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:76:17-84
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:76:25-81
+activity#com.vomont.yundudao.ui.verification.VerificationActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:82:9-92:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:85:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:84:13-44
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:86:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:83:13-84
+intent-filter#android.intent.action.verificationactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:87:13-91:29
+action#android.intent.action.verificationactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:88:17-85
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:88:25-82
+activity#com.vomont.yundudao.ui.verification.NewPsdActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:95:9-105:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:98:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:97:13-44
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:99:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:96:13-78
+intent-filter#android.intent.action.newpsdactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:100:13-104:29
+action#android.intent.action.newpsdactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:101:17-79
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:101:25-76
+activity#com.vomont.yundudao.ui.home.HomeActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:107:9-120:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:111:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:110:13-44
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:109:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:112:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:108:13-68
+intent-filter#android.intent.action.homeactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:113:13-119:29
+action#android.intent.action.homeactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:116:17-77
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:116:25-74
+activity#com.vomont.yundudao.ui.personalcenter.ChangePsdActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:122:9-133:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:126:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:125:13-44
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:124:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:127:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:123:13-83
+intent-filter#android.intent.action.changepsdactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:128:13-132:29
+action#android.intent.action.changepsdactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:129:17-82
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:129:25-79
+activity#com.vomont.yundudao.ui.personalcenter.SettingActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:135:9-146:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:139:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:138:13-44
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:137:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:140:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:136:13-81
+intent-filter#android.intent.action.settingactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:141:13-145:29
+action#android.intent.action.settingactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:142:17-80
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:142:25-77
+activity#com.vomont.yundudao.ui.personalcenter.SettingMsgActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:148:9-159:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:152:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:151:13-44
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:150:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:153:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:149:13-84
+intent-filter#android.intent.action.settingmsgactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:154:13-158:29
+action#android.intent.action.settingmsgactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:155:17-83
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:155:25-80
+activity#com.vomont.yundudao.ui.ip.SetIpActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:162:9-172:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:165:13-49
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:164:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:166:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:163:13-67
+intent-filter#android.intent.action.setipactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:167:13-171:29
+action#android.intent.action.setipactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:168:17-78
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:168:25-75
+activity#com.vomont.yundudao.ui.personalcenter.AboutActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:175:9-186:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:179:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:178:13-44
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:177:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:180:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:176:13-79
+intent-filter#android.intent.action.aboutactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:181:13-185:29
+action#android.intent.action.aboutactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:182:17-78
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:182:25-75
+activity#com.vomont.yundudao.ui.message.MsgListActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:188:9-199:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:192:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:191:13-44
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:190:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:193:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:189:13-74
+intent-filter#android.intent.action.msgListactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:194:13-198:29
+action#android.intent.action.msgListactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:195:17-80
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:195:25-77
+activity#com.vomont.yundudao.ui.factory.FactoryActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:201:9-213:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:205:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:204:13-44
+	android:windowSoftInputMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:207:13-64
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:203:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:206:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:202:13-74
+intent-filter#android.intent.action.factoryactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:208:13-212:29
+action#android.intent.action.factoryactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:209:17-80
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:209:25-77
+activity#com.vomont.yundudao.ui.message.MsgAllActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:215:9-226:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:219:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:218:13-44
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:217:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:220:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:216:13-73
+intent-filter#android.intent.action.msgallactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:221:13-225:29
+action#android.intent.action.msgallactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:222:17-79
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:222:25-76
+activity#com.vomont.yundudao.ui.factory.VedioFactoryActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:228:9-238:20
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:231:13-44
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:230:13-59
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:232:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:229:13-79
+intent-filter#android.intent.action.vediofactoryactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:233:13-237:29
+action#android.intent.action.vediofactoryactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:234:17-85
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:234:25-82
+activity#com.vomont.yundudao.ui.factory.PlayBackActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:239:9-249:20
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:242:13-44
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:241:13-59
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:243:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:240:13-75
+intent-filter#android.intent.action.PlayBackActivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:244:13-248:29
+action#android.intent.action.PlayBackActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:245:17-81
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:245:25-78
+activity#com.vomont.yundudao.ui.pic.AllPicActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:252:9-263:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:256:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:255:13-44
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:254:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:257:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:253:13-69
+intent-filter#android.intent.action.allpicactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:258:13-262:29
+action#android.intent.action.allpicactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:259:17-79
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:259:25-76
+activity#com.vomont.yundudao.ui.pic.PicCenterActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:265:9-271:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:269:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:268:13-44
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:267:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:270:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:266:13-72
+activity#com.vomont.yundudao.ui.pic.SelectPicPopupWindow
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:273:9-284:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:277:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:276:13-44
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:275:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:278:13-55
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:274:13-75
+intent-filter#android.intent.action.selectpicpopupwindow+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:279:13-283:29
+action#android.intent.action.selectpicpopupwindow
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:280:17-85
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:280:25-82
+activity#com.vomont.yundudao.ui.createproblem.CreateProblemActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:287:9-299:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:291:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:290:13-44
+	android:windowSoftInputMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:293:13-72
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:289:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:292:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:288:13-86
+intent-filter#android.intent.action.createproblemactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:294:13-298:29
+action#android.intent.action.createproblemactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:295:17-86
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:295:25-83
+activity#com.vomont.yundudao.ui.createproblem.ProblemDetailActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:302:9-313:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:306:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:305:13-44
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:304:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:307:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:303:13-86
+intent-filter#android.intent.action.problemdetailactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:308:13-312:29
+action#android.intent.action.problemdetailactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:309:17-86
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:309:25-83
+activity#com.vomont.yundudao.ui.createproblem.ProblemImageChangeActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:315:9-324:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:317:13-49
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:318:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:316:13-91
+intent-filter#android.intent.action.problemimagechangeactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:319:13-323:29
+action#android.intent.action.problemimagechangeactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:320:17-91
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:320:25-88
+activity#com.vomont.yundudao.ui.createproblem.SelectTagActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:326:9-335:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:328:13-49
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:329:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:327:13-82
+intent-filter#android.intent.action.selecttagactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:330:13-334:29
+action#android.intent.action.selecttagactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:331:17-82
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:331:25-79
+activity#com.vomont.yundudao.ui.createproblem.SelectDeviceActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:337:9-346:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:339:13-49
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:340:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:338:13-85
+intent-filter#android.intent.action.selectdeviceactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:341:13-345:29
+action#android.intent.action.selectdeviceactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:342:17-85
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:342:25-82
+activity#com.vomont.yundudao.ui.createproblem.SelectDealActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:348:9-359:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:351:13-49
+	android:windowSoftInputMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:353:13-64
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:350:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:352:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:349:13-83
+intent-filter#android.intent.action.selectdealactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:354:13-358:29
+action#android.intent.action.selectdealactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:355:17-83
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:355:25-80
+activity#com.vomont.yundudao.ui.createproblem.SeclectCopyActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:361:9-372:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:364:13-49
+	android:windowSoftInputMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:366:13-64
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:363:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:365:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:362:13-84
+intent-filter#android.intent.action.selectcopyactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:367:13-371:29
+action#android.intent.action.selectcopyactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:368:17-83
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:368:25-80
+activity#com.vomont.yundudao.ui.createproblem.CenterProblemActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:375:9-386:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:378:13-49
+	android:windowSoftInputMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:380:13-64
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:377:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:379:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:376:13-86
+intent-filter#android.intent.action.centerproblemactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:381:13-385:29
+action#android.intent.action.centerproblemactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:382:17-86
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:382:25-83
+activity#com.vomont.yundudao.ui.createproblem.ProblemHandleActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:389:9-399:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:392:13-49
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:391:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:393:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:390:13-86
+intent-filter#android.intent.action.problemHandleactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:394:13-398:29
+action#android.intent.action.problemHandleactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:395:17-86
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:395:25-83
+activity#com.vomont.yundudao.ui.patrol.PatrolListActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:401:9-411:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:404:13-49
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:403:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:405:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:402:13-76
+intent-filter#android.intent.action.patrollistactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:406:13-410:29
+action#android.intent.action.patrollistactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:407:17-83
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:407:25-80
+activity#com.vomont.yundudao.ui.patrol.PatrolLoadVedioActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:413:9-424:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:417:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:416:13-44
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:415:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:418:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:414:13-81
+intent-filter#android.intent.action.patrolloadvedioactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:419:13-423:29
+action#android.intent.action.patrolloadvedioactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:420:17-88
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:420:25-85
+activity#com.vomont.yundudao.ui.patrol.MediaActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:427:9-438:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:431:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:430:13-44
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:429:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:432:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:428:13-71
+intent-filter#android.intent.action.mediaactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:433:13-437:29
+action#android.intent.action.mediaactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:434:17-78
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:434:25-75
+activity#com.vomont.yundudao.ui.patrol.VedioPlayActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:439:9-450:20
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:442:13-44
+	android:windowSoftInputMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:444:13-67
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:441:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:443:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:440:13-75
+intent-filter#android.intent.action.vedioplayactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:445:13-449:29
+action#android.intent.action.vedioplayactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:446:17-82
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:446:25-79
+activity#com.vomont.yundudao.ui.patrol.ImportListActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:453:9-464:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:457:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:456:13-44
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:455:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:458:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:454:13-76
+intent-filter#android.intent.action.importlistactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:459:13-463:29
+action#android.intent.action.importlistactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:460:17-83
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:460:25-80
+activity#com.vomont.yundudao.ui.patrol.PatrolDetailActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:466:9-477:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:470:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:469:13-44
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:468:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:471:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:467:13-78
+intent-filter#android.intent.action.patroldetailactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:472:13-476:29
+action#android.intent.action.patroldetailactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:473:17-85
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:473:25-82
+activity#com.vomont.yundudao.ui.patrol.LookPeopleActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:479:9-489:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:482:13-49
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:481:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:483:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:480:13-76
+intent-filter#android.intent.action.lookpeopleactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:484:13-488:29
+action#android.intent.action.lookpeopleactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:485:17-83
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:485:25-80
+activity#com.vomont.yundudao.ui.patrol.SelectSubActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:491:9-501:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:494:13-49
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:493:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:495:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:492:13-75
+intent-filter#android.intent.action.selectsubactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:496:13-500:29
+action#android.intent.action.selectsubactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:497:17-82
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:497:25-79
+activity#com.vomont.yundudao.ui.patrol.LoadActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:503:9-512:20
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:505:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:506:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:504:13-70
+intent-filter#android.intent.action.loadactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:507:13-511:29
+action#android.intent.action.loadactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:508:17-77
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:508:25-74
+activity#com.vomont.yundudao.ui.police.CallPoliceActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:514:9-523:20
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:516:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:517:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:515:13-76
+intent-filter#android.intent.action.callpoliceactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:518:13-522:29
+action#android.intent.action.callpoliceactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:519:17-83
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:519:25-80
+activity#com.vomont.yundudao.ui.videoimport.VideoFaceActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:525:9-534:20
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:527:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:528:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:526:13-80
+intent-filter#android.intent.action.videofaceactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:529:13-533:29
+action#android.intent.action.videofaceactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:530:17-82
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:530:25-79
+activity#com.vomont.yundudao.ui.videoimport.VideoEditActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:537:9-546:20
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:539:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:540:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:538:13-80
+intent-filter#android.intent.action.videoeditactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:541:13-545:29
+action#android.intent.action.videoeditactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:542:17-82
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:542:25-79
+activity#com.vomont.yundudao.ui.manual.ManualActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:549:9-559:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:552:13-49
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:551:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:553:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:550:13-72
+intent-filter#android.intent.action.manualactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:554:13-558:29
+action#android.intent.action.manualactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:555:17-79
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:555:25-76
+activity#com.vomont.yundudao.ui.manual.ManualDetailActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:562:9-572:20
+	android:windowSoftInputMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:566:13-67
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:564:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:565:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:563:13-78
+intent-filter#android.intent.action.manualdetailactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:567:13-571:29
+action#android.intent.action.manualdetailactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:568:17-85
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:568:25-82
+activity#com.vomont.yundudao.ui.personalcenter.VideoSettingActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:574:9-582:20
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:576:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:575:13-86
+intent-filter#android.intent.action.videosettingactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:577:13-581:29
+action#android.intent.action.videosettingactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:578:17-85
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:578:25-82
+activity#com.vomont.yundudao.ui.createproblem.ImageSettingActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:584:9-592:20
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:586:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:585:13-85
+intent-filter#android.intent.action.imagesettingactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:587:13-591:29
+action#android.intent.action.imagesettingactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:588:17-85
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:588:25-82
+activity#com.vomont.yundudao.ui.createproblem.LookDetailImageActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:594:9-602:20
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:596:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:595:13-88
+intent-filter#android.intent.action.lookdetailumageactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:597:13-601:29
+action#android.intent.action.lookdetailumageactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:598:17-88
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:598:25-85
+activity#com.vomont.yundudao.ui.manual.ManualSelDevActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:604:9-614:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:607:13-49
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:606:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:608:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:605:13-78
+intent-filter#android.intent.action.manualseldevactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:609:13-613:29
+action#android.intent.action.manualseldevactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:610:17-85
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:610:25-82
+activity#com.vomont.yundudao.ui.manual.ManualPlayActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:616:9-625:20
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:618:13-59
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:619:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:617:13-76
+intent-filter#android.intent.action.manualplayactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:620:13-624:29
+action#android.intent.action.manualplayactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:621:17-83
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:621:25-80
+activity#com.vomont.yundudao.ui.pic.AddPicActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:627:9-636:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:629:13-49
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:630:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:628:13-69
+intent-filter#android.intent.action.addpicactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:631:13-635:29
+action#android.intent.action.addpicactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:632:17-79
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:632:25-76
+activity#com.vomont.yundudao.ui.pic.PicListActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:639:9-647:20
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:641:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:640:13-70
+intent-filter#android.intent.action.piclistactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:642:13-646:29
+action#android.intent.action.piclistactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:643:17-80
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:643:25-77
+activity#com.vomont.yundudao.ui.pic.PreviewPicActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:650:9-658:20
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:652:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:651:13-73
+intent-filter#android.intent.action.previewpicactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:653:13-657:29
+action#android.intent.action.previewpicactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:654:17-83
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:654:25-80
+activity#com.vomont.yundudao.ui.patrol.VideoImportActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:661:9-669:20
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:663:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:662:13-77
+intent-filter#android.intent.action.videoimportactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:664:13-668:29
+action#android.intent.action.videoimportactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:665:17-84
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:665:25-81
+activity#com.vomont.yundudao.ui.setting.FeedbackActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:670:9-678:20
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:672:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:671:13-75
+intent-filter#android.intent.action.feedbackactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:673:13-677:29
+action#android.intent.action.feedbackactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:674:17-81
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:674:25-78
+activity#com.vomont.yundudao.ui.setting.AppProblemActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:679:9-687:20
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:681:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:680:13-77
+intent-filter#android.intent.action.appproblemactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:682:13-686:29
+action#android.intent.action.appproblemactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:683:17-83
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:683:25-80
+activity#com.vomont.yundudao.ui.reportform.FormSubActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:688:9-697:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:690:13-49
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:691:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:689:13-77
+intent-filter#android.intent.action.formsubactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:692:13-696:29
+action#android.intent.action.formsubactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:693:17-80
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:693:25-77
+activity#com.vomont.yundudao.ui.reportform.ReportFormActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:700:9-709:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:702:13-49
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:703:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:701:13-80
+intent-filter#android.intent.action.reportformactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:704:13-708:29
+action#android.intent.action.reportformactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:705:17-83
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:705:25-80
+activity#com.vomont.yundudao.ui.reportform.FormTypeActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:710:9-719:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:712:13-49
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:713:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:711:13-78
+intent-filter#android.intent.action.formtypeactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:714:13-718:29
+action#android.intent.action.formtypeactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:715:17-81
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:715:25-78
+activity#com.vomont.yundudao.ui.reportform.ReportMoreActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:722:9-731:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:724:13-49
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:725:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:723:13-80
+intent-filter#android.intent.action.reportmoreactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:726:13-730:29
+action#android.intent.action.reportmoreactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:727:17-83
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:727:25-80
+activity#com.vomont.yundudao.ui.newproblem.NewProblemActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:734:9-744:20
+	android:screenOrientation
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:737:13-49
+	android:launchMode
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:736:13-44
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:738:13-66
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:735:13-80
+intent-filter#android.intent.action.newproblemactivity+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:739:13-743:29
+action#android.intent.action.newproblemactivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:740:17-83
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:740:25-80
+activity#com.tencent.tauth.AuthActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:747:9-758:20
+	android:noHistory
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:749:13-37
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:748:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:750:13-757:29
+action#android.intent.action.VIEW
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:751:17-69
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:751:25-66
+category#android.intent.category.BROWSABLE
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:754:17-78
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:754:27-75
+data
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:756:17-60
+	android:scheme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:756:23-57
+activity#com.tencent.connect.common.AssistActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:759:9-762:75
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:761:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:762:13-72
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:760:13-69
+activity#com.vomont.yundudao.ui.patrol.DeleteVideoActivity
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:763:9-767:20
+	android:configChanges
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:765:13-74
+	android:theme
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:766:13-72
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:764:13-77
+service#com.vomont.yundudao.upload.VideoUpService
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:769:9-770:19
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:769:18-74
+service#com.vomont.yundudao.ui.patrol.ZipService
+ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:772:9-773:19
+	android:name
+		ADDED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml:772:18-73
+uses-sdk
+INJECTED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [AndroidClient-yundd:pullrefresh:unspecified] E:\ASyundd\AndroidClient-yundd\pullrefresh\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:40
+MERGED from [AndroidClient-yundd:wMFileLoadSdk:unspecified] E:\ASyundd\AndroidClient-yundd\wMFileLoadSdk\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mabeijianxi:small-video-record2:2.0.3] C:\Users\Administrator\.android\build-cache\afe420d466e351bf998b331cf8bcc27a1b3b1b61\output\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml
+		INJECTED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml
+		INJECTED from E:\ASyundd\AndroidClient-yundd\yundd\src\main\AndroidManifest.xml
