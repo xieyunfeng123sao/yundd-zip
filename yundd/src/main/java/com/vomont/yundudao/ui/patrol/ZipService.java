@@ -29,6 +29,8 @@ public class ZipService extends Service {
 
     private Map<String,String> map=new HashMap<String, String>();
 
+    OnZipListener onZipListener;
+
     @Nullable
     @Override
     public IBinder onBind(Intent intent) {
@@ -66,6 +68,10 @@ public class ZipService extends Service {
             // 表示状态是上传 而不是保存的数据
             upVideoBean.setIsSave(1);
             helpter.updateBean(name, upVideoBean);
+            if(onZipListener!=null)
+            {
+                onZipListener.onCallBack(name,upVideoBean);
+            }
             new Thread(new Runnable() {
                 @Override
                 public void run() {
@@ -82,6 +88,10 @@ public class ZipService extends Service {
                         map.put(names,name);
                         upVideoBean.setName(names);
                         upVideoBean.setVideoPath(filePath);
+                        if(onZipListener!=null)
+                        {
+                            onZipListener.onSucess(name,upVideoBean);
+                        }
                         message.obj = upVideoBean;
                         mHandler.sendMessage(message);
                     } else {
@@ -137,5 +147,18 @@ public class ZipService extends Service {
         public ZipService getService() {
             return ZipService.this;
         }
+    }
+
+
+    public void  setOnZipListener(OnZipListener onZipListener)
+    {
+            this.onZipListener=onZipListener;
+    }
+
+    public  interface  OnZipListener
+    {
+        void  onCallBack(String  oldName,VideoBean videoBean);
+
+        void  onSucess(String  oldName,VideoBean videoBean);
     }
 }

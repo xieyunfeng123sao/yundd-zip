@@ -13,6 +13,7 @@ import android.content.IntentFilter;
 import android.content.ServiceConnection;
 import android.os.Bundle;
 import android.os.IBinder;
+import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.AdapterView;
@@ -186,7 +187,9 @@ public class LoadActivity extends Activity implements OnClickListener {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, final int position, long id) {
                 if (!isDelete) {
-                    if (mlist.get(position).getLoadstate() != 1) {
+                    Log.e("insert","=========onItemClick========"+mlist.get(position).getLoadstate());
+                    if (mlist.get(position).getLoadstate() != 1&&mlist.get(position).getLoadstate() != 3) {
+                        Log.e("insert","=========setOnItemClickListener========"+mlist.get(position).getLoadstate());
                         mlist.get(position).setLoadstate(1);
                         if (mlist.get(position).getFileId() == 0) {
                             if (mlist.get(position).getVideoPath().equals(VideoManager.path)||mlist.get(position).getVideoPath().contains(VideoManager.compress)) {
@@ -204,7 +207,7 @@ public class LoadActivity extends Activity implements OnClickListener {
                             WMFileLoadSdk.getInstance().WM_VFile_PauseUpload(mlist.get(position).getFileId(), false);
                             videoHelpter.updateLoadState(mlist.get(position).getName(), 1, 0);
                         }
-                    } else {
+                    } else if(mlist.get(position).getLoadstate() != 3) {
                         mlist.get(position).setLoadstate(0);
                         WMFileLoadSdk.getInstance().WM_VFile_PauseUpload(mlist.get(position).getFileId(), true);
                         videoHelpter.updateLoadState(mlist.get(position).getName(), 0, 0);
@@ -319,6 +322,36 @@ public class LoadActivity extends Activity implements OnClickListener {
         public void onServiceConnected(ComponentName name, IBinder service) {
             // 返回一个MsgService对象
             zipService = ((ZipService.ZipBinder) service).getService();
+            zipService.setOnZipListener(new ZipService.OnZipListener() {
+                @Override
+                public void onCallBack(String oldName, VideoBean videoBean) {
+                    if(mlist!=null&&mlist.size()!=0)
+                    {
+                        for(int i=0;i<mlist.size();i++ )
+                        {
+                            if(mlist.get(i).getName().equals(oldName))
+                            {
+                                mlist.set(i,videoBean);
+                            }
+                        }
+                    }
+
+                }
+
+                @Override
+                public void onSucess(String oldName, VideoBean videoBean) {
+                    if(mlist!=null&&mlist.size()!=0)
+                    {
+                        for(int i=0;i<mlist.size();i++ )
+                        {
+                            if(mlist.get(i).getName().equals(oldName))
+                            {
+                                mlist.set(i,videoBean);
+                            }
+                        }
+                    }
+                }
+            });
         }
         /** 无法获取到服务对象时的操作 */
         public void onServiceDisconnected(ComponentName name) {

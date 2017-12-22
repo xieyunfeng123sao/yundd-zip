@@ -85,9 +85,7 @@ public class MediaActivity extends Activity implements OnClickListener
     private ShareUtil shareUtil;
     
     private boolean isChange = false;
-    
     Dialog dialog;
-    
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
@@ -367,7 +365,6 @@ public class MediaActivity extends Activity implements OnClickListener
                             intent.putExtra("path", path);
                             intent.putExtra("name", name);
                             startActivity(intent);
-                            finish();
                             if (m == 2)
                             {
                                 Toast.makeText(MediaActivity.this, "最多录制5分钟", Toast.LENGTH_LONG).show();
