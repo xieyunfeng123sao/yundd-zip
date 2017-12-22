@@ -28,20 +28,20 @@
         "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_msg_lilst.xml"
     },
     {
-        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_problem.xml",
-        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_new_problem.xml"
-    },
-    {
         "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\mybar.xml",
         "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\mybar.xml"
     },
     {
-        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_expand_dev.xml",
-        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_expand_dev.xml"
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_problem.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_new_problem.xml"
     },
     {
         "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_factory.xml",
         "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\fragment_factory.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_expand_dev.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\item_expand_dev.xml"
     },
     {
         "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_dealman.xml",
@@ -64,12 +64,12 @@
         "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\piechartview.xml"
     },
     {
-        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_video_input.xml",
-        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\dialog_video_input.xml"
-    },
-    {
         "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\layout_problemtype_popu.xml",
         "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\layout_problemtype_popu.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_video_input.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\dialog_video_input.xml"
     },
     {
         "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\layout_popu_selectfactory.xml",
@@ -92,12 +92,12 @@
         "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\top_layout.xml"
     },
     {
-        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
-        "source": "E:\\ASyundd\\AndroidClient-yundd\\pullrefresh\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_vertical.xml"
-    },
-    {
         "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_img.xml",
         "source": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\src\\main\\res\\layout\\activity_detail_img.xml"
+    },
+    {
+        "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\ASyundd\\AndroidClient-yundd\\pullrefresh\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_vertical.xml"
     },
     {
         "merged": "E:\\ASyundd\\AndroidClient-yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_playback.xml",
